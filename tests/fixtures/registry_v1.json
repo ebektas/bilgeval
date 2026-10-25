@@ -1,0 +1,104 @@
+{
+  "schema_version": "bilgeval.registry/v1",
+  "registry_version": "fixture-1.0.0",
+  "datasets": {
+    "fixture_mc": {
+      "version": "1.0.0",
+      "uri": "canonical_mc.jsonl",
+      "content_hash": "sha256:caa9402cdf990a69f538c83932e54ca7105ee626dd66bcb5a7806bda28df7f6a",
+      "schema_version": "bilgeval.instance/v1",
+      "task_type": "multiple_choice",
+      "split": "validation",
+      "language": "tr",
+      "row_count": 2
+    },
+    "fixture_mc_few_shot": {
+      "version": "1.0.0",
+      "uri": "canonical_mc_few_shot.jsonl",
+      "content_hash": "sha256:159f53bdce67021c3695bf0f91dc6af721e06804568abf63ce2ba449504d3952",
+      "schema_version": "bilgeval.instance/v1",
+      "task_type": "multiple_choice",
+      "split": "train",
+      "language": "tr",
+      "row_count": 1
+    },
+    "fixture_free_response": {
+      "version": "1.0.0",
+      "uri": "canonical_free_response.jsonl",
+      "content_hash": "sha256:bc73c3e93bfaf80e920c9c10469170d3c84115af4a665fd6c24b3ccdd9261690",
+      "schema_version": "bilgeval.instance/v1",
+      "task_type": "free_response",
+      "split": "test",
+      "language": "tr",
+      "row_count": 1
+    }
+  },
+  "tasks": {
+    "fixture_mc_logprob": {
+      "version": "1.0.0",
+      "dataset": "fixture_mc",
+      "request_type": "logprob",
+      "formatter": {"id": "turkish_mc_v1", "version": "1.0.0", "append_choices": true},
+      "scorer": {"id": "mc_logprob", "score_target": "label"},
+      "few_shot": {"count": 1, "dataset": "fixture_mc_few_shot", "seed": "fixture-few-shot-v1"},
+      "subgroup_fields": ["subject"]
+    },
+    "fixture_mc:cloze-pmi": {
+      "version": "1.0.0",
+      "dataset": "fixture_mc",
+      "request_type": "logprob",
+      "formatter": {"id": "turkish_mc_v1", "version": "1.0.0", "append_choices": false},
+      "scorer": {
+        "id": "mc_logprob",
+        "score_target": "text",
+        "normalization": "pmi",
+        "pmi_reference_prompt": "Yanıt:"
+      },
+      "subgroup_fields": ["subject"]
+    },
+    "fixture_math_regex": {
+      "version": "1.0.0",
+      "dataset": "fixture_free_response",
+      "request_type": "generate",
+      "generation_api": "completions",
+      "formatter": {"id": "turkish_integer_answer_v1", "version": "1.0.0"},
+      "scorer": {"id": "free_response_regex_match"},
+      "generation": {"max_tokens": 64}
+    }
+  },
+  "suites": {
+    "fixture_suite": {
+      "version": "1.0.0",
+      "tasks": [
+        {"task": "fixture_mc_logprob", "max_examples": 1, "sample_seed": "fixture-seed"},
+        {"task": "fixture_math_regex"}
+      ]
+    }
+  },
+  "model_profiles": {
+    "gemma_completion": {
+      "version": "1.0.0",
+      "model_pattern": "gemma",
+      "bos_mode": "auto",
+      "bos_token": "<bos>",
+      "logprob_api": "auto",
+      "generation_api": "completions",
+      "serialization": {
+        "tokenizer_id": "google/gemma-3-27b-it",
+        "tokenizer_revision": "fixture-revision",
+        "logprob": {
+          "mode": "template",
+          "template_id": "gemma-fixture-completion",
+          "template_version": "1",
+          "template": "<start_of_turn>user\n{prompt}<end_of_turn>\n<start_of_turn>model\n"
+        },
+        "generation": {
+          "mode": "template",
+          "template_id": "gemma-fixture-completion",
+          "template_version": "1",
+          "template": "<start_of_turn>user\n{prompt}<end_of_turn>\n<start_of_turn>model\n"
+        }
+      }
+    }
+  }
+}

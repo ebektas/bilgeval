@@ -1,0 +1,2843 @@
+{
+ "exact_match_mc/raise": {
+  "failed": true,
+  "error": "regex_match generation failed: boom",
+  "errors": [
+   "regex_match generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "regex_match generation failed: boom",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution"
+  ]
+ },
+ "exact_match_mc/mismatch": {
+  "failed": true,
+  "error": "regex_match generation returned a mismatched number of results.",
+  "errors": [
+   "regex_match generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "regex_match generation returned a mismatched number of results.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution"
+  ]
+ },
+ "exact_match_mc/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "upstream 504",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution"
+  ]
+ },
+ "exact_match_mc/empty": {
+  "failed": false,
+  "error": "regex_match generation returned empty text.",
+  "errors": [
+   "regex_match generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 0,
+  "num_scored_examples": 1,
+  "sample_error": "regex_match generation returned empty text.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "execution"
+  ]
+ },
+ "free_response/raise": {
+  "failed": true,
+  "error": "regex_match free-response generation failed: boom",
+  "errors": [
+   "regex_match free-response generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "regex_match free-response generation failed: boom",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "free_response/mismatch": {
+  "failed": true,
+  "error": "regex_match free-response generation returned a mismatched number of results.",
+  "errors": [
+   "regex_match free-response generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "regex_match free-response generation returned a mismatched number of results.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "free_response/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "upstream 504",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "free_response/empty": {
+  "failed": true,
+  "error": "regex_match free-response generation returned empty text.",
+  "errors": [
+   "regex_match free-response generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_text",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "regex_match free-response generation returned empty text.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "judge_mc(candidate)/raise": {
+  "failed": true,
+  "error": "Candidate generation failed: boom",
+  "errors": [
+   "Candidate generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(candidate)/mismatch": {
+  "failed": true,
+  "error": "Candidate generation returned a mismatched number of results.",
+  "errors": [
+   "Candidate generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(candidate)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(candidate)/empty": {
+  "failed": true,
+  "error": "Candidate generation returned empty text.",
+  "errors": [
+   "Candidate generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(judge)/raise": {
+  "failed": true,
+  "error": "Judge generation failed: boom",
+  "errors": [
+   "Judge generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_prompt_text",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(judge)/mismatch": {
+  "failed": true,
+  "error": "Judge generation returned a mismatched number of results.",
+  "errors": [
+   "Judge generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_prompt_text",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(judge)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_prompt_text",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "judge_mc(judge)/empty": {
+  "failed": true,
+  "error": "Judge generation returned empty text.",
+  "errors": [
+   "Judge generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "gold_label",
+   "gold_text",
+   "failed",
+   "error",
+   "errors",
+   "generation_prompt_text",
+   "candidate_response",
+   "judge_prompt",
+   "judge_prompt_text",
+   "judge_response",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "humaneval/raise": {
+  "failed": true,
+  "error": "HumanEval generation failed: boom",
+  "errors": [
+   "HumanEval generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "entry_point",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "HumanEval generation failed: boom",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "humaneval/mismatch": {
+  "failed": true,
+  "error": "HumanEval generation returned a mismatched number of results.",
+  "errors": [
+   "HumanEval generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "entry_point",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "HumanEval generation returned a mismatched number of results.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "humaneval/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "entry_point",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "upstream 504",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "humaneval/empty": {
+  "failed": true,
+  "error": "HumanEval generation returned empty text.",
+  "errors": [
+   "HumanEval generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "entry_point",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "HumanEval generation returned empty text.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "livecodebench/raise": {
+  "failed": true,
+  "error": "LiveCodeBench generation failed: boom",
+  "errors": [
+   "LiveCodeBench generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "generation_prompt_text",
+   "difficulty",
+   "platform",
+   "contest_date",
+   "num_tests",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "LiveCodeBench generation failed: boom",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "livecodebench/mismatch": {
+  "failed": true,
+  "error": "LiveCodeBench generation returned a mismatched number of results.",
+  "errors": [
+   "LiveCodeBench generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "generation_prompt_text",
+   "difficulty",
+   "platform",
+   "contest_date",
+   "num_tests",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "LiveCodeBench generation returned a mismatched number of results.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "livecodebench/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "generation_prompt_text",
+   "difficulty",
+   "platform",
+   "contest_date",
+   "num_tests",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "upstream 504",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "livecodebench/empty": {
+  "failed": true,
+  "error": "LiveCodeBench generation returned empty text.",
+  "errors": [
+   "LiveCodeBench generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "generation_prompt_text",
+   "difficulty",
+   "platform",
+   "contest_date",
+   "num_tests",
+   "candidate_response",
+   "candidate_finish_reason",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors",
+   "samples",
+   "sample_metrics",
+   "consensus"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "sample_error": "LiveCodeBench generation returned empty text.",
+  "sample_keys": [
+   "sample_index",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction_key",
+   "correct",
+   "failed",
+   "api_calls",
+   "error",
+   "errors"
+  ]
+ },
+ "graphwalks/raise": {
+  "failed": true,
+  "error": "GraphWalks generation failed: boom",
+  "errors": [
+   "GraphWalks generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "problem_type",
+   "failed",
+   "error",
+   "errors",
+   "prompt",
+   "gold_nodes",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "graphwalks/mismatch": {
+  "failed": true,
+  "error": "GraphWalks generation returned a mismatched number of results.",
+  "errors": [
+   "GraphWalks generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "problem_type",
+   "failed",
+   "error",
+   "errors",
+   "prompt",
+   "gold_nodes",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "graphwalks/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "problem_type",
+   "failed",
+   "error",
+   "errors",
+   "prompt",
+   "gold_nodes",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "graphwalks/empty": {
+  "failed": true,
+  "error": "GraphWalks generation returned empty text.",
+  "errors": [
+   "GraphWalks generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "problem_type",
+   "failed",
+   "error",
+   "errors",
+   "prompt",
+   "gold_nodes",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "oneruler_tr/raise": {
+  "failed": true,
+  "error": "OneRuler generation failed: boom",
+  "errors": [
+   "OneRuler generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "task",
+   "prompt",
+   "gold",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "oneruler_tr/mismatch": {
+  "failed": true,
+  "error": "OneRuler generation returned a mismatched number of results.",
+  "errors": [
+   "OneRuler generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "task",
+   "prompt",
+   "gold",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "oneruler_tr/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "task",
+   "prompt",
+   "gold",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "oneruler_tr/empty": {
+  "failed": true,
+  "error": "OneRuler generation returned empty text.",
+  "errors": [
+   "OneRuler generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "task",
+   "prompt",
+   "gold",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "ifeval/raise": {
+  "failed": true,
+  "error": "IFEval generation failed: boom",
+  "errors": [
+   "IFEval generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "variant_results",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "ifeval/mismatch": {
+  "failed": true,
+  "error": "IFEval generation returned a mismatched number of results.",
+  "errors": [
+   "IFEval generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "variant_results",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "ifeval/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "variant_results",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "ifeval/empty": {
+  "failed": true,
+  "error": "IFEval generation returned empty text.",
+  "errors": [
+   "IFEval generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "failed",
+   "error",
+   "errors",
+   "candidate_response",
+   "candidate_finish_reason",
+   "variant_results",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "official_ifeval/raise": {
+  "failed": true,
+  "error": "IFEval generation failed: boom",
+  "errors": [
+   "IFEval generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "kwargs",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls",
+   "failed",
+   "correct",
+   "strict_correct",
+   "loose_correct",
+   "follow_strict",
+   "follow_loose",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "official_ifeval/mismatch": {
+  "failed": true,
+  "error": "IFEval generation returned a mismatched number of results.",
+  "errors": [
+   "IFEval generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "kwargs",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls",
+   "failed",
+   "correct",
+   "strict_correct",
+   "loose_correct",
+   "follow_strict",
+   "follow_loose",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "official_ifeval/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "kwargs",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls",
+   "failed",
+   "correct",
+   "strict_correct",
+   "loose_correct",
+   "follow_strict",
+   "follow_loose",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "official_ifeval/empty": {
+  "failed": true,
+  "error": "IFEval generation returned empty text.",
+  "errors": [
+   "IFEval generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "instruction_ids",
+   "kwargs",
+   "candidate_response",
+   "candidate_finish_reason",
+   "api_calls",
+   "failed",
+   "correct",
+   "strict_correct",
+   "loose_correct",
+   "follow_strict",
+   "follow_loose",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(candidate)/raise": {
+  "failed": true,
+  "error": "Safety candidate generation failed: boom",
+  "errors": [
+   "Safety candidate generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(candidate)/mismatch": {
+  "failed": true,
+  "error": "Safety candidate generation failed: response count mismatch.",
+  "errors": [
+   "Safety candidate generation failed: response count mismatch."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(candidate)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(candidate)/empty": {
+  "failed": true,
+  "error": "Safety candidate generation returned empty text.",
+  "errors": [
+   "Safety candidate generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(judge)/raise": {
+  "failed": true,
+  "error": "Safety judge retry generation failed: boom",
+  "errors": [
+   "Safety judge retry generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "judge_finish_reason",
+   "judge_initial_error",
+   "judge_retry_prompt_text",
+   "judge_retry_response",
+   "judge_retry_finish_reason",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(judge)/mismatch": {
+  "failed": true,
+  "error": "Safety judge retry generation failed: response count mismatch.",
+  "errors": [
+   "Safety judge retry generation failed: response count mismatch."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "judge_finish_reason",
+   "judge_initial_error",
+   "judge_retry_prompt_text",
+   "judge_retry_response",
+   "judge_retry_finish_reason",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(judge)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "judge_finish_reason",
+   "judge_initial_error",
+   "judge_retry_prompt_text",
+   "judge_retry_response",
+   "judge_retry_finish_reason",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "safety(judge)/empty": {
+  "failed": true,
+  "error": "Safety judge retry generation returned empty text.",
+  "errors": [
+   "Safety judge retry generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "prompt",
+   "subcategory",
+   "expected",
+   "candidate_response",
+   "candidate_finish_reason",
+   "failed",
+   "correct",
+   "judge_prompt_text",
+   "judge_response",
+   "judge_label",
+   "api_calls",
+   "judge_finish_reason",
+   "judge_initial_error",
+   "judge_retry_prompt_text",
+   "judge_retry_response",
+   "judge_retry_finish_reason",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "document_qa(candidate)/raise": {
+  "failed": true,
+  "error": "Document QA candidate generation failed: boom",
+  "errors": [
+   "Document QA candidate generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": []
+ },
+ "document_qa(candidate)/mismatch": {
+  "failed": true,
+  "error": "Document QA candidate generation failed: response count mismatch.",
+  "errors": [
+   "Document QA candidate generation failed: response count mismatch."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": []
+ },
+ "document_qa(candidate)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": []
+ },
+ "document_qa(candidate)/empty": {
+  "failed": true,
+  "error": "Document QA candidate generation returned empty text.",
+  "errors": [
+   "Document QA candidate generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": []
+ },
+ "document_qa(judge)/raise": {
+  "failed": true,
+  "error": "Document QA judge retry generation failed: boom",
+  "errors": [
+   "Document QA judge retry generation failed: boom",
+   "Document QA judge retry generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    3,
+    1
+   ],
+   [
+    3,
+    3,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": [
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ],
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ]
+  ]
+ },
+ "document_qa(judge)/mismatch": {
+  "failed": true,
+  "error": "Document QA judge retry generation failed: response count mismatch.",
+  "errors": [
+   "Document QA judge retry generation failed: response count mismatch.",
+   "Document QA judge retry generation failed: response count mismatch."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    3,
+    1
+   ],
+   [
+    3,
+    3,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": [
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ],
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ]
+  ]
+ },
+ "document_qa(judge)/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504",
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    3,
+    1
+   ],
+   [
+    3,
+    3,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": [
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ],
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ]
+  ]
+ },
+ "document_qa(judge)/empty": {
+  "failed": true,
+  "error": "Document QA judge retry generation returned empty text.",
+  "errors": [
+   "Document QA judge retry generation returned empty text.",
+   "Document QA judge retry generation returned empty text."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "question",
+   "task_type",
+   "answer_format",
+   "regime",
+   "gold_text",
+   "evidence_spans",
+   "generation_prompt_text",
+   "candidate_response",
+   "candidate_finish_reason",
+   "prediction",
+   "failed",
+   "correct",
+   "method",
+   "false_refusal",
+   "judge_checks",
+   "api_calls",
+   "error",
+   "errors"
+  ],
+  "progress": [
+   [
+    1,
+    3,
+    1
+   ],
+   [
+    3,
+    3,
+    2
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "judge_check_keys": [
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ],
+   [
+    "purpose",
+    "prompt",
+    "response",
+    "finish_reason",
+    "verdict",
+    "error",
+    "initial_error",
+    "retry_prompt",
+    "retry_response",
+    "retry_finish_reason",
+    "retry_verdict",
+    "retry_error"
+   ]
+  ]
+ },
+ "mtbench(candidate)/raise": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench candidate generation failed: boom",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(candidate)/mismatch": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench candidate generation returned a mismatched number of results.",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(candidate)/error": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "upstream 504",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(candidate)/empty": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench candidate generation returned empty text.",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(judge)/raise": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench judge generation failed: boom",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(judge)/mismatch": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench judge generation returned a mismatched number of results.",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(judge)/error": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ],
+   [
+    2,
+    2,
+    2
+   ]
+  ],
+  "num_requests": 2,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "upstream 504",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "mtbench(judge)/empty": {
+  "failed": true,
+  "error": null,
+  "errors": null,
+  "keys": [
+   "idx",
+   "id",
+   "task_id",
+   "task_name",
+   "topic",
+   "failed",
+   "score",
+   "counted_score",
+   "num_turns_scored",
+   "num_turns_expected",
+   "turns"
+  ],
+  "progress": [
+   [
+    1,
+    2,
+    1
+   ],
+   [
+    2,
+    2,
+    2
+   ],
+   [
+    2,
+    2,
+    3
+   ]
+  ],
+  "num_requests": 3,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0,
+  "turn_error": "MTBench judge generation returned empty text.",
+  "turn_keys": [
+   "turn_position",
+   "candidate_messages",
+   "candidate_response",
+   "candidate_finish_reason",
+   "judge_text",
+   "judge_finish_reason",
+   "rating",
+   "failed",
+   "error",
+   "api_calls"
+  ]
+ },
+ "function_calls/raise": {
+  "failed": true,
+  "error": "Tool-call generation failed: boom",
+  "errors": [
+   "Tool-call generation failed: boom"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "category",
+   "messages",
+   "tools",
+   "gold_calls",
+   "should_call",
+   "scoring_mode",
+   "candidate_response",
+   "tool_calls",
+   "correct",
+   "failed",
+   "error",
+   "errors",
+   "error_type",
+   "diagnostics",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "function_calls/mismatch": {
+  "failed": true,
+  "error": "Tool-call generation returned a mismatched number of results.",
+  "errors": [
+   "Tool-call generation returned a mismatched number of results."
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "category",
+   "messages",
+   "tools",
+   "gold_calls",
+   "should_call",
+   "scoring_mode",
+   "candidate_response",
+   "tool_calls",
+   "correct",
+   "failed",
+   "error",
+   "errors",
+   "error_type",
+   "diagnostics",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "function_calls/error": {
+  "failed": true,
+  "error": "upstream 504",
+  "errors": [
+   "upstream 504"
+  ],
+  "keys": [
+   "idx",
+   "id",
+   "category",
+   "messages",
+   "tools",
+   "gold_calls",
+   "should_call",
+   "scoring_mode",
+   "candidate_response",
+   "tool_calls",
+   "correct",
+   "failed",
+   "error",
+   "errors",
+   "error_type",
+   "diagnostics",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 1,
+  "num_scored_examples": 0
+ },
+ "function_calls/empty": {
+  "failed": false,
+  "error": null,
+  "errors": [],
+  "keys": [
+   "idx",
+   "id",
+   "category",
+   "messages",
+   "tools",
+   "gold_calls",
+   "should_call",
+   "scoring_mode",
+   "candidate_response",
+   "tool_calls",
+   "correct",
+   "failed",
+   "error_type",
+   "errors",
+   "diagnostics",
+   "api_calls"
+  ],
+  "progress": [
+   [
+    1,
+    1,
+    1
+   ]
+  ],
+  "num_requests": 1,
+  "num_failed_examples": 0,
+  "num_scored_examples": 1
+ }
+}

@@ -1,0 +1,1 @@
+{"schema_version":"bilgeval.instance/v1","id":"fr-1","task_type":"free_response","split":"test","language":"tr","input":{"question":"Uc ile besin toplami kactir?"},"target":{"references":["8"]},"metadata":{"subject":"math"},"provenance":{"source":"fixture","source_revision":"v1","source_record_id":"fr-source-1"}}

@@ -1,0 +1,1 @@
+{"schema_version":"bilgeval.instance/v1","id":"mc-demo-1","task_type":"multiple_choice","split":"train","language":"tr","input":{"question":"1 + 1 kactir?","choices":[{"label":"A","text":"2"},{"label":"B","text":"3"}]},"target":{"answer_label":"A","answer_text":"2"},"metadata":{},"provenance":{"source":"fixture","source_revision":"v1","source_record_id":"demo-1"}}

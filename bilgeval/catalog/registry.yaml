@@ -1,0 +1,56 @@
+registry_version: builtin-2.13.0
+metadata:
+  catalog: bilgeval built-in tasks
+  generated_by: scripts/build_builtin_registry.py
+model_profiles:
+  gemma_it_chat:
+    version: 1.0.0
+    model_pattern: gemma.*(?:-it(?:$|[/_-])|instruct)
+    bos_mode: auto
+    add_bos_token: null
+    bos_token: <bos>
+    logprob_api: auto
+    generation_api: chat
+    serialization:
+      tokenizer_id: null
+      tokenizer_revision: null
+      logprob:
+        mode: plain
+        template_id: plain
+        template_version: '1'
+        template: null
+        template_hash: null
+      generation:
+        mode: server_chat
+        template_id: gemma-server-chat
+        template_version: '1'
+        template: null
+        template_hash: null
+    metadata:
+      purpose: Gemma instruction-tuned generation through the endpoint chat template
+  gemma_completion:
+    version: 1.0.0
+    model_pattern: gemma(?!.*(?:-it(?:$|[/_-])|instruct))
+    bos_mode: auto
+    add_bos_token: null
+    bos_token: <bos>
+    logprob_api: auto
+    generation_api: completions
+    serialization:
+      tokenizer_id: null
+      tokenizer_revision: null
+      logprob:
+        mode: plain
+        template_id: plain
+        template_version: '1'
+        template: null
+        template_hash: null
+      generation:
+        mode: plain
+        template_id: plain
+        template_version: '1'
+        template: null
+        template_hash: null
+    metadata:
+      purpose: Verified Gemma BOS and completion transport defaults
+files: []

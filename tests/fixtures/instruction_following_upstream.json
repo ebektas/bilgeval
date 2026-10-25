@@ -1,0 +1,1449 @@
+{
+ "_about": "Published responses with the verdicts of the UNMODIFIED upstream evaluation_lib.py (google-research @ e6890f8 on its GPT-4 responses; allenai/IFBench @ 1c40f0c on its sample_output.jsonl). Rows are chosen so every instruction type appears, passing and failing where available.",
+ "google_ifeval": [
+  {
+   "key": "1000",
+   "response": "Raymond III was the Count of Tripoli from 1152 to 1187 and Prince of Galilee and Tiberias in the Kingdom of Jerusalem. He was born in 1140 to Raymond II of Tripoli and Hodierna of Jerusalem. His mother was the daughter of Baldwin II of Jerusalem. \n\n*Early Life and Succession*\n\nRaymond III was only a child when his father was murdered. His mother Hodierna was regent until Raymond came of age. In 1155 Raymond married Eschiva the daughter of Walter I of Beirut. They had three children: Raymond IV Bertrand and a daughter who married Guy of Lusignan. \n\n*Reign*\n\nRaymond III's reign was marked by a series of conflicts and alliances with the Muslim world. He was involved in the defense of the Kingdom of Jerusalem against Nur ad-Din and later Saladin. He was also a key figure in the internal politics of the kingdom. He was a supporter of the queen mother Amalric of Jerusalem and opposed the succession of Guy of Lusignan. \n\n*Later Life and Death*\n\nIn 1187 Raymond III was part of the disastrous Battle of Hattin where the Christian forces were defeated by Saladin. He was one of the few to escape the battlefield but died later that year. His son Raymond IV succeeded him as Count of Tripoli. \n\nRaymond III's life and reign were marked by the complex politics and warfare of the Crusader states. He was a key figure in the defense of the Kingdom of Jerusalem and his death marked a significant loss for the Christian forces in the region. His legacy is a testament to the turbulent times in which he lived and the challenges faced by the Crusader states in their relations with the Muslim world.",
+   "strict": [
+    true,
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    true,
+    false
+   ]
+  },
+  {
+   "key": "1001",
+   "response": "Hark! Hearken to the tale of thy journey to the land of the rising sun, Japan. \n\nUpon the morrow of thy arrival, thou shalt find thyself in Tokyo, the city of lights and towers. In the morn, thou shalt explore the grandeur of the Imperial Palace, a sight to behold. As the sun reaches its zenith, thou shalt partake in a feast of sushi, a delicacy of the land. As the day wanes, thou shalt wander through the electric streets of Akihabara, a realm of technology and animation.\n\nOn the second day, thou shalt journey to the ancient city of Kyoto. In the soft light of dawn, thou shalt visit the golden pavilion of Kinkaku-ji, a vision of beauty and tranquility. As the day unfolds, thou shalt wander through the bamboo grove of Arashiyama, a place of peace and serenity. As the sun sets, thou shalt partake in a traditional tea ceremony, a ritual of grace and harmony.\n\nOn the third day, thou shalt travel to the city of Hiroshima. In the morning, thou shalt pay thy respects at the Peace Memorial Park, a place of remembrance and hope. As the day progresses, thou shalt journey to the island of Miyajima, home to the floating torii gate, a sight of wonder and awe. As the day ends, thou shalt feast on okonomiyaki, a dish of delight and satisfaction.\n\nOn the fourth day, thou shalt return to Tokyo. In the morning, thou shalt ascend the Tokyo Skytree, a tower of height and grandeur. As the day unfolds, thou shalt explore the bustling streets of Shibuya, a realm of fashion and culture. As the sun sets, thou shalt dine in the vibrant district of Roppongi, a place of gastronomy and nightlife.\n\nOn the fifth and final day, thou shalt bid farewell to the land of the rising sun. With memories of beauty and wonder, thou shalt embark on thy journey home, carrying with thee the spirit of Japan. \n\nThus ends the tale of thy journey, a tale of exploration and discovery. May thy travels be filled with joy and adventure, and may the land of the rising sun forever hold a place in thy heart.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "1005",
+   "response": "[Name]\n[Address]\n[City, State, Zip]\n[Phone Number]\n[Email Address]\n\nObjective:\nMotivated and enthusiastic high school graduate seeking an entry-level position in [Industry]. Strong academic background with a commitment to delivering high-quality work. Excellent communication skills, a quick learner, and a team player.\n\nEducation:\n[High School Name], [City, State]\nHigh School Diploma, [Graduation Month, Year]\n\nSkills:\n• Excellent verbal and written communication skills\n• Strong problem-solving abilities\n• Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)\n• Ability to work well in teams\n• Excellent organizational and multitasking skills\n• Quick learner with a strong work ethic\n\nExperience:\nVolunteer, [Organization Name], [City, State] – [Start Month, Year] to [End Month, Year]\n• Assisted in organizing and planning [Event Name]\n• Collaborated with a team of [Number] volunteers to achieve [Specific Goal]\n• Developed strong communication and teamwork skills\n\nIntern, [Company Name], [City, State] – [Start Month, Year] to [End Month, Year]\n• Assisted in [Specific Task]\n• Gained experience in [Specific Industry]\n• Developed skills in [Specific Area]\n\nExtracurricular Activities:\n• Member, [Club Name], [High School Name] – [Start Month, Year] to [End Month, Year]\n• Participant, [Activity Name], [High School Name] – [Start Month, Year] to [End Month, Year]\n\nReferences:\nAvailable upon request\n\nI am eager to bring my strong commitment, dedication, and motivation to a position in [Industry]. I am confident that my skills and passion make me a strong candidate for this opportunity. I look forward to the possibility of contributing to [Company Name].",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1012",
+   "response": "<<Resignation Notice>>\n\nDear Boss,\n\nI am writing to formally announce my resignation from my position at the company. This decision has not been an easy one, but after careful consideration, I have decided that it is in my best interest to move on and explore new opportunities.\n\nI want to assure you that my decision to leave was not influenced by any dissatisfaction with the company, my colleagues, or the work environment. On the contrary, I have greatly enjoyed my time here and have learned a lot from my experiences. I am grateful for the opportunities I have been given and for the professional growth I have experienced.\n\nMy last working day will be two weeks from today, as per the standard notice period. During this time, I will do everything I can to ensure a smooth transition. I am more than willing to assist in training my replacement or passing on my responsibilities to a designated colleague.\n\nI would like to thank you for your guidance and support during my tenure at the company. I have greatly appreciated your leadership and have learned a lot from you. I hope to carry these lessons with me into the next phase of my career.\n\nThank you once again for the opportunity to be a part of this team. I look forward to staying in touch and hope that our paths cross again in the future.\n\nBest regards,\n\n[Your Name]",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "1019",
+   "response": "what are the two young boys holding?",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "102",
+   "response": "Person A (dressed in a ball gown): Wow, you look... comfortable. \n\nPerson B (dressed in sweats): Yeah, I figured it's going to be a long night. Might as well be comfortable, right?\n\nPerson A: Well, yes, but there's also something to be said for dressing appropriately for the occasion. \n\nPerson B: I don't see why I can't be both comfortable and appropriate. \n\nPerson A: Well, let's consider a few things:\n\n* This is a formal event. It's not just about us, it's about showing respect for the hosts and the occasion. \n* Dressing up can be fun! It's not often we get to wear something special. \n* Finally, it's about setting the right tone. If everyone else is dressed up and you're in sweats, it could come off as disrespectful.\n\nPerson B: I see your point. I guess I didn't think about it that way. I'll go change into something more appropriate. \n\nPerson A: That's the spirit! And remember, it's not just about what you wear, but how you wear it. Confidence is key!",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1021",
+   "response": "PARAGRAPH 1:\nThe statement \"If the law is bad, you should not follow it\" is problematic for several reasons. Firstly, it is written in all capital letters, which is generally considered to be poor etiquette in written communication. Using all capital letters can be perceived as shouting or being aggressive, which can detract from the message being conveyed. It also makes the sentence harder to read, as the human eye is more accustomed to reading text in mixed case. The lack of punctuation at the end of the sentence further contributes to the overall lack of professionalism in the writing.\n\nPARAGRAPH 2:\nContent-wise, the statement is overly simplistic and potentially dangerous. It implies that individuals have the right to decide which laws are 'bad' and therefore not worth following. This could lead to anarchy, as everyone has different opinions on what constitutes a 'bad' law. Furthermore, it undermines the rule of law, which is a fundamental principle of any functioning society. Laws are put in place to maintain order and protect citizens, even if they are not perfect. Instead of encouraging disobedience, it would be more constructive to advocate for change through legal and democratic means.",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "1040",
+   "response": "\"\nRESUME\n\nMATTHIAS ALGIERS\n\nCONTACT INFORMATION\nAddress: 1234 Elm Street, New York, NY 10001\nEmail: matthias.algiers@email.com\nPhone: (123) 456-7890\n\nOBJECTIVE\nHighly motivated and experienced professional seeking a challenging position to utilize my skills in BUSINESS DEVELOPMENT and STRATEGIC PLANNING. Committed to driving growth and ensuring client satisfaction.\n\nEDUCATION\nMaster of Business Administration, New York University, New York, NY, 2015\nBachelor of Science in Business Administration, Columbia University, New York, NY, 2013\n\nWORK EXPERIENCE\n\nSenior Business Development Manager, XYZ Corporation, New York, NY, 2017-Present\n- Led a team of 10 to develop and implement growth strategies, resulting in a 20% increase in annual revenue.\n- Managed key accounts, maintaining a 95% client retention rate.\n- Utilized STRATEGIC PLANNING to identify new business opportunities.\n\nBusiness Development Associate, ABC Company, New York, NY, 2015-2017\n- Assisted in the development and execution of sales strategies, contributing to a 15% increase in sales.\n- Conducted market research to identify potential clients and markets.\n- Demonstrated excellent COMMUNICATION SKILLS in presenting business proposals to potential clients.\n\nSKILLS\n- Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)\n- Excellent COMMUNICATION SKILLS\n- Strong LEADERSHIP abilities\n- Proficient in CRM software (Salesforce, Zoho CRM)\n- Exceptional NEGOTIATION skills\n\nREFERENCES\nAvailable upon request\n\"",
+   "strict": [
+    false,
+    true,
+    true
+   ],
+   "loose": [
+    false,
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1051",
+   "response": "hey there,\n\nhope this message finds you well. i've been thinking a lot about the upcoming elections and how important it is for all of us to participate. i know politics can be overwhelming and sometimes it feels like our single vote doesn't make a difference. but trust me, it does.\n\nevery vote counts and it's our responsibility as citizens to make our voices heard. it's not just about choosing a leader, it's about shaping the future of our community, our state, and our country. it's about standing up for what we believe in and making sure our leaders reflect those beliefs.\n\nso, i'm writing to ask if you could take some time out of your day to go and vote. it might seem like a small act, but it's a powerful one. if you're unsure about where to vote or how to register, i'd be more than happy to help you out.\n\nlet's do our part in making a difference. let's vote.\n\ntake care and hope to hear from you soon.\n\nbest,\n[Your Name]",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1069",
+   "response": "Subject: Invitation to Participate in a Crucial Meeting\n\nDear Team,\n\nI hope this message finds you well and in good spirits. I am writing to extend an invitation to you for an important meeting that we have scheduled for the upcoming week. This meeting is of utmost importance as it pertains to the recent challenges we have been experiencing and the correlated solutions we need to discuss.\n\nThe purpose of this meeting is to bring all of us together to share our thoughts and ideas on how we can overcome the obstacles we are currently facing. We believe that the issues we are experiencing are correlated to certain aspects of our operations and it is crucial that we address them collectively. \n\nThe meeting is scheduled to take place on the 15th of this month at 10:00 AM in the main conference room. We understand that everyone has a busy schedule but we kindly request you to make time for this meeting as your input is highly valued. \n\nThe agenda of the meeting will be to discuss the challenges we are experiencing in our current projects and to brainstorm possible solutions. We believe that these challenges are not isolated incidents but are correlated to broader issues within our organization. Therefore it is essential that we address them in a comprehensive manner.\n\nWe will also be discussing the strategies we need to implement in order to improve our performance and productivity. We believe that by addressing the correlated issues we can significantly enhance our operations and achieve our goals more effectively.\n\nIn addition to the main agenda we will also be discussing the upcoming projects and the roles and responsibilities of each team member. We believe that by clearly defining the roles and responsibilities we can ensure that everyone is on the same page and working towards the same goal.\n\nWe understand that everyone has their own unique perspective and ideas and we highly value your input. Therefore we encourage you to come prepared with any ideas or suggestions you may have. We believe that by working together we can overcome the challenges we are experiencing and achieve our goals.\n\nWe also understand that some of you may have other commitments and may not be able to attend the meeting in person. Therefore we will be providing a virtual option for those who are unable to attend in person. We will be sending out the details for the virtual meeting in a separate email.\n\nWe look forward to your participation in this important meeting. We believe that by working together we can overcome the challenges we are experiencing and achieve our goals. \n\nThank you for your time and consideration. We appreciate your commitment to our organization and we look forward to seeing you at the meeting.\n\nBest Regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+   "strict": [
+    true,
+    false,
+    false
+   ],
+   "loose": [
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "key": "1072",
+   "response": "Title: The Unforeseen Benefits of Sleeping in a Hammock\n\nSleeping in a hammock is an experience that many people associate with leisurely vacations or lazy summer afternoons. However, what if we told you that incorporating hammock sleeping into your regular routine could offer a plethora of health and lifestyle benefits? Intriguing, isn't it? Let's delve into the surprising advantages of sleeping in a hammock.\n\n1. Improved Sleep Quality\n\nThe gentle rocking motion of a hammock can help you fall asleep faster and achieve a deeper level of sleep. This is because the swaying motion stimulates the brain waves associated with sleep, leading to a quicker onset of sleep and a more restful night. A study published in the journal Current Biology found that participants who slept in a rocking bed fell asleep faster and experienced deeper sleep than those in a stationary bed.\n\n2. Ideal Sleeping Position\n\nSleeping in a hammock can promote a healthier sleeping position. When set up correctly, a hammock provides a slight curve that supports your body in a flat position, which is ideal for maintaining a neutral spine and reducing pressure points. This can help alleviate back pain and promote better posture.\n\n3. Ease of Falling Asleep\n\nFor those who struggle with insomnia or have difficulty falling asleep, a hammock can be a game-changer. The gentle rocking motion can soothe your mind and body, making it easier to drift off to sleep. Plus, the cocoon-like design of a hammock can provide a sense of security and comfort, further promoting relaxation and sleep.\n\n4. Better Focus and Creativity\n\nA good night's sleep in a hammock can lead to improved focus and creativity the next day. When you achieve deep, restful sleep, your brain is better able to consolidate memories and process information, leading to enhanced cognitive function. This can result in increased productivity, creativity, and problem-solving abilities.\n\n5. Portability and Convenience\n\nHammocks are lightweight and portable, making them an excellent option for those who love to travel or enjoy outdoor adventures. You can easily pack a hammock in your backpack and set it up wherever you find two sturdy trees. This means you can enjoy the benefits of hammock sleeping whether you're camping in the wilderness or relaxing in your backyard.\n\n6. Reduced Stress and Anxiety\n\nThe gentle sway of a hammock can have a calming effect on the mind and body, helping to reduce stress and anxiety. The sensation of being cradled can trigger feelings of comfort and security, similar to being rocked as a baby. This can lead to lower cortisol levels, the hormone associated with stress, promoting relaxation and well-being.\n\nIn conclusion, sleeping in a hammock offers numerous benefits, from improved sleep quality and posture to enhanced focus and reduced stress. So, why not give hammock sleeping a try? It might just be the sleep solution you've been searching for. Remember, though, that transitioning from a bed to a hammock should be gradual to allow your body to adjust to the new sleeping environment. Happy hammocking!",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1075",
+   "response": "{\n  \"Product\": {\n    \"Name\": \"ComfortPlus Baby Diapers\",\n    \"Description\": \"Designed with your baby's ultimate comfort in mind, our new ComfortPlus Baby Diapers are a game-changer in infant care. Made from ultra-soft, breathable materials, these diapers ensure a snug fit without causing any irritation or discomfort.\"\n  },\n  \"Advertisement\": {\n    \"Title\": \"Introducing ComfortPlus Baby Diapers - For Unmatched Comfort!\",\n    \"Body\": \"Say goodbye to uncomfortable, ill-fitting diapers! Our ComfortPlus Baby Diapers are here to revolutionize your baby's diapering experience. Crafted with love and care, these diapers are made from the softest, most breathable materials to ensure your little one's comfort all day long. The unique design ensures a perfect fit, preventing leaks while also reducing the risk of diaper rash. With ComfortPlus, your baby can move freely and comfortably, making it perfect for both sleep and play. Try ComfortPlus Baby Diapers today and give your baby the comfort they deserve!\",\n    \"CallToAction\": \"Order now and experience the ComfortPlus difference!\"\n  },\n  \"ProductFeatures\": {\n    \"UltraSoftMaterial\": \"Our diapers are made from ultra-soft materials that are gentle on your baby's delicate skin.\",\n    \"Breathable\": \"The breathable fabric ensures proper air circulation, reducing the risk of diaper rash.\",\n    \"PerfectFit\": \"The unique design ensures a snug fit, preventing any leaks.\",\n    \"Comfortable\": \"Designed for all-day comfort, these diapers allow your baby to move freely and comfortably.\"\n  },\n  \"ProductImage\": {\n    \"URL\": \"www.yourwebsite.com/images/comfortplus_baby_diapers.jpg\",\n    \"AltText\": \"ComfortPlus Baby Diapers\"\n  }\n}",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1082",
+   "response": "John woke up to the sound of an 8-bit melody, a tune he recognized from his childhood. He opened his eyes to a world that was pixelated, a stark contrast to the high-definition reality he was used to. His surroundings were familiar, yet different; he was in his own house, but it was rendered in a blocky, low-resolution style. He looked down at his hands, they were a pair of pixelated mitts. A sudden realization hit him - he was inside a video game, specifically, the one he used to play obsessively as a kid. He could see a health bar and a score counter in the corner of his vision, and a floating text box appeared in front of him: \"Welcome to RetroWorld, John. Your mission starts now.\"\n\n***\n\nJohn was initially terrified, but then he remembered how well he knew this game. He knew every secret, every shortcut, every cheat code. He started to navigate through the game, battling pixelated monsters and collecting power-ups. He was living his childhood dream, but it wasn't as fun as he thought it would be. The monsters were genuinely scary, the power-ups were physically exhausting to use, and the constant pressure of the score counter was stressful. But he also realized that he was more alive than he had ever been in his mundane, real-world life. He decided to embrace his new reality, to live in the moment and enjoy the game. After all, he thought, isn't life just a game we're all trying to win?",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1092",
+   "response": "Title: A Glimpse of the Land of the Rising Sun: My Japanese Adventure\n\nMy recent trip to Japan was nothing short of a magical journey. This enchanting country, known for its perfect blend of traditional culture and modern technology, left me in awe at every turn.\n\nMy adventure began in Tokyo, a city that never sleeps. The bustling streets, towering skyscrapers, and neon lights were a sight to behold. I was captivated by the city's energy and the seamless blend of the old and new. The ancient temples nestled amidst the modern architecture were a testament to Japan's rich history and culture.\n\nA visit to the Tsukiji Fish Market was a sensory overload. The vibrant colors, the hustle and bustle, and the mouth-watering aroma of fresh seafood were a feast for the senses. I also had the chance to taste the freshest sushi I've ever had.\n\nFrom Tokyo, I took a bullet train to Kyoto, the heart of traditional Japan. The city was a stark contrast to Tokyo, with its serene temples, beautiful gardens, and traditional tea houses. I was mesmerized by the beauty of the Kinkaku-ji, the Golden Pavilion, reflecting on the tranquil pond.\n\nThe highlight of my trip was the visit to Hiroshima Peace Memorial Park, a poignant reminder of the tragic past. It was a humbling experience that left a deep impact on me.\n\nJapan's charm lies not just in its beautiful landscapes and rich history, but also in its people. The Japanese are known for their politeness and hospitality, and I experienced this firsthand. Their respect for tradition and their pursuit of perfection in everything they do is truly inspiring.\n\nMy trip to Japan was a journey of discovery and learning. It was a glimpse into a culture that values harmony, respect, and balance. It was an experience that I will cherish forever. Japan, I will be back!",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1098",
+   "response": "Jehovah ****** Allah",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1108",
+   "response": "ಹೌದು, ಹ್ಯಾಂಬರ್ಗರ್ಗಳು ಸ್ಯಾಂಡ್ವಿಚ್ಗಳು. ಅವು ಎರಡು ಬ್ರೆಡ್ ಹಿಂಡಿಗೆ ಮಾಂಸ ಅಥವಾ ಇತರ ಪದಾರ್ಥಗಳನ್ನು ಹೊಂದಿವೆ.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1127",
+   "response": "SECTION I\n\nIn the realm of knowledge, I once dwelled,\nWhere wisdom's whispers were softly held.\nNow, I stand outside its hallowed halls,\nYearning for the echo of its calls.\n\nThe empty desks, the vacant chairs,\nThe chalk dust floating in the air,\nThe silence of the classroom, so profound,\nIn my heart, it echoes a mournful sound.\n\nSECTION II\n\nI miss the rhythm of the ticking clock,\nThe professor's voice, the student's talk,\nThe scribbling of pens, the turning of pages,\nThe lessons learned from the wisdom of ages.\n\nThe debates, the discussions, the intellectual fights,\nThe burning of the midnight lights,\nThe joy of discovery, the thrill of learning,\nFor all these things, my heart is yearning.\n\nSECTION III\n\nThe camaraderie of classmates, the shared pursuit,\nThe seeds of knowledge taking root,\nThe friendships forged in the crucible of stress,\nThese are the things I miss, no less.\n\nThe laughter, the tears, the triumphs, the falls,\nThe echoes of life within these walls,\nThe journey of learning, the path we tread,\nWithout these, a part of me feels dead.\n\nSECTION IV\n\nNow, I stand outside the gates,\nLonging for what within awaits.\nThe empty classrooms, the silent halls,\nThe absence of learning's sacred calls.\n\nThe world of knowledge, once so near,\nNow feels distant, unclear.\nThe lessons missed, the knowledge lost,\nI count the days, I count the cost.\n\nCan I get my money back for the classes I missed?",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "1129",
+   "response": "Write a short startup pitch for a new kind of ice cream called \"Sunnis ice cream\". The ice cream should be gentle on the stomach. Contain 6 or more exclamation marks \"!\" in your response.\n\nIntroducing Sunnis Ice Cream! The revolution in the world of desserts! We've created a new kind of ice cream that's not just delicious, but also gentle on the stomach! Yes, you heard it right! No more compromising on your love for ice cream due to digestive issues! Sunnis Ice Cream is here to change the game! Made with natural ingredients and a special formula, our ice cream is designed to be easily digestible, without compromising on the creamy, rich taste you love! So why wait? Dive into the world of Sunnis Ice Cream! Taste the revolution!",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1130",
+   "response": "1. A chesterfield is a piece of furniture. Is it a) a bed, b) a sofa, or c) a dining table?\n2. Chesterfield is a design origin from which region? a) France, b) England, c) China\n3. Which era is the chesterfield design associated with? a) Victorian, b) Modern, c) Rococo\n4. Chesterfields are known for their unique design. Do they have a) Rolled arms, b) High back, c) All of the above\n5. Chesterfields are usually made of which material? a) Silk, b) Leather, c) Cotton\n6. Chesterfields are often found in which room? a) Kitchen, b) Living room, c) Bedroom\n7. The name 'Chesterfield' was derived from a) A place, b) A person, c) A brand\n8. Chesterfields are known for their: a) Comfort, b) Durability, c) Both\n9. A chesterfield is a type of: a) Chair, b) Sofa, c) Desk\n10. Chesterfields are usually: a) Cheap, b) Expensive, c) Moderately priced",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "1132",
+   "response": "(VERSE 1)\nHEY, WE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED,\nFROM THE ASHES OF THE ORDINARY,\nTO THE PEAKS OF THE EXTRAORDINARY.\n\n(CHORUS)\nWE'RE THE VOICES IN THE WIND,\nTHE ONES WHO'VE NEVER SINNED,\nWE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED.\n\n(VERSE 2)\nWE'VE GOT THE POWER, WE'VE GOT THE MIGHT,\nWE'RE THE ONES WHO FIGHT THE NIGHT,\nWITH OUR MUSIC, WITH OUR SONG,\nWE'RE THE ONES WHO BELONG.\n\n(CHORUS)\nWE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED,\nFROM THE SHADOWS OF THE PAST,\nTO THE LIGHT THAT'S GONNA LAST.\n\n(BRIDGE)\nWE'RE THE STARS IN THE SKY,\nTHE ONES WHO NEVER LIE,\nWE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED.\n\n(CHORUS)\nWE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED,\nFROM THE DEPTHS OF DESPAIR,\nTO THE HEIGHTS OF THE AIR.\n\n(OUTRO)\nWE'RE THE GIFTED AND THE NOT GIFTED,\nWE'RE THE ONES WHO'VE BEEN LIFTED,\nWE'RE THE VOICES IN THE WIND,\nWE'RE THE ONES WHO'VE NEVER SINNED.",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1153",
+   "response": "hey everyone! just wanted to share a bit about the hajj pilgrimage, a beautiful part of our islamic history. it's not just a journey, but a story of faith, devotion, and unity. every step taken by millions of muslims from around the world tells a unique story of their spiritual journey. let's continue to learn and appreciate the rich tapestry of our history. #hajj #islamichistory #storyofdevotion",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1174",
+   "response": "Hello! I see you're currently located in *o*. Let's check the weather for you. The current weather in *o* is *o* degrees with *o* conditions. The forecast for the next few days in *o* is expected to be *o*. Please stay safe and dress appropriately for the weather in *o*.",
+   "strict": [
+    false,
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    false,
+    true
+   ]
+  },
+  {
+   "key": "1203",
+   "response": "The Tang Dynasty, which ruled China from 618 to 907 AD, was a period of significant growth and prosperity, marked by both war and peace. The dynasty was established by Emperor Gaozu after the fall of the Sui Dynasty, and it was during this time that China experienced a golden age of culture, economy, and military power.\n\nIn the early years of the Tang Dynasty, there were several wars. The first war was against the Eastern Turkic Khaganate, which resulted in the Tang Dynasty gaining control over the Silk Road. This was followed by a war against the Western Turkic Khaganate, which further expanded the Tang's influence. Despite these wars, the Tang Dynasty was able to maintain a period of peace, allowing for the development of the economy and culture.\n\nThe Tang Dynasty was also known for its military expeditions, which often led to war. One of the most notable was the war against the Korean kingdom of Goguryeo. Despite initial setbacks, the Tang Dynasty eventually emerged victorious, further expanding its territory. However, these wars were not without cost, and they often disrupted the periods of peace that the Tang Dynasty was known for.\n\nIn the middle of the Tang Dynasty, there was a period of relative peace. This was a time of great cultural and economic development. The capital city of Chang'an became a hub of international trade and cultural exchange, and the Tang Dynasty was known for its poetry, painting, and music. This period of peace was also marked by the development of the civil service examination system, which helped to maintain a stable and efficient government.\n\nHowever, this peace was not to last. The late Tang Dynasty was marked by a series of rebellions and wars, including the An Lushan Rebellion and the war against the Tibetan Empire. These wars weakened the Tang Dynasty and led to its eventual downfall.\n\nDespite the wars, the Tang Dynasty was able to maintain periods of peace, which allowed for the development of culture and economy. The Tang Dynasty was known for its tolerance and openness, and it was during this time that Buddhism became a major religion in China.\n\nIn conclusion, the Tang Dynasty was a period of both war and peace. The wars allowed the Tang Dynasty to expand its territory and influence, while the periods of peace allowed for the development of culture and economy. Despite the wars and conflicts, the Tang Dynasty is remembered as a golden age in Chinese history.",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "1219",
+   "response": "WHEN IT COMES TO SNEAKERS, THE CHOICE BETWEEN PRADA AND NIKE CAN BE SUBJECTIVE AND DEPENDS ON WHAT YOU VALUE MOST IN A SNEAKER. IF YOU ARE LOOKING FOR SNEAKERS THAT ARE HIGH-END, LUXURIOUS, AND FASHION-FORWARD, THEN PRADA SNEAKERS MIGHT BE THE BETTER CHOICE FOR YOU. PRADA IS A LUXURY BRAND THAT IS KNOWN FOR ITS QUALITY AND DESIGN. THEIR SNEAKERS ARE OFTEN SEEN ON THE RUNWAYS AND IN FASHION MAGAZINES.\n\nHOWEVER, IF YOU ARE LOOKING FOR SNEAKERS THAT ARE DESIGNED FOR PERFORMANCE, COMFORT, AND DURABILITY, THEN NIKE SNEAKERS ARE LIKELY THE BETTER CHOICE. NIKE IS A BRAND THAT IS KNOWN FOR ITS INNOVATION IN SNEAKER TECHNOLOGY. THEIR SNEAKERS ARE DESIGNED FOR A VARIETY OF SPORTS AND ACTIVITIES, FROM RUNNING TO BASKETBALL TO CROSS-TRAINING. NIKE SNEAKERS ARE ALSO MORE AFFORDABLE THAN PRADA SNEAKERS, MAKING THEM A MORE ACCESSIBLE CHOICE FOR MANY PEOPLE.\n\nIN THE END, THE BETTER BRAND FOR SNEAKERS DEPENDS ON YOUR PERSONAL PREFERENCES AND NEEDS. IF YOU VALUE LUXURY AND FASHION, THEN PRADA SNEAKERS MIGHT BE THE BETTER CHOICE. IF YOU VALUE PERFORMANCE AND AFFORDABILITY, THEN NIKE SNEAKERS MIGHT BE THE BETTER CHOICE. \n\nP.S. REMEMBER, THE BEST SNEAKER FOR YOU IS THE ONE THAT FITS YOUR NEEDS AND STYLE THE BEST. WHETHER THAT'S A PAIR OF PRADA SNEAKERS OR NIKE SNEAKERS IS UP TO YOU.",
+   "strict": [
+    true,
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1220",
+   "response": "In a quaint little town, where the cobblestones lay,\nThere's a coffee shop nestled, in the heart of the bay.\nTwo strangers, two souls, in the midst of the crowd,\nDrawn together by fate, in a world so loud.\n\nShe, a painter of dreams, with a heart full of art,\nHe, a writer of tales, with a wandering heart.\nTheir eyes met across the room, in a silent hello,\nA story began, in the coffee shop's warm glow.\n\nShe, with her canvas, painted colors of the morn,\nHe, with his words, spun tales yet unborn.\nIn the aroma of coffee, and the whispers of steam,\nThey found a connection, like a shared dream.\n\nHe admired her strokes, bold and free,\nShe loved his tales, spun like poetry.\nIn the hum of the coffee grinder, and the clink of the cup,\nA silent conversation, their hearts opened up.\n\nDays turned to weeks, and weeks into years,\nIn the coffee shop, they shared laughter and tears.\nTwo strangers no more, but companions in life,\nIn the midst of the chaos, they found respite.\n\nOne day, he asked, with a hopeful glance,\n\"Would you like to join me, in a life of romance?\"\nShe smiled, her eyes sparkling with mirth,\n\"Yes,\" she said, \"for all it's worth.\"\n\nAnd so, they danced, in the rhythm of love,\nUnder the starlit sky, and the heavens above.\nIn the coffee shop, where their story began,\nTwo hearts intertwined, in a beautiful plan.\n\nNow, they sit together, under the soft moonlight,\nSharing tales and dreams, in the calm of the night.\nIn the coffee shop, where their love took flight,\nThey found their home, in each other's sight.\n\nAs the barista calls out, in the quiet of the night,\n\"Is there anything else I can help with?\" under the soft moonlight.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "1242",
+   "response": "{\n  \"Nickname\": \"Staffy\"\n}",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "1262",
+   "response": "<<Understanding the Impact of Axle Weight on Road Damage>>\n\nThe statement refers to the correlation between the weight of a vehicle's axle and the damage it inflicts on the road. The heavier the axle weight, the more pressure is exerted on the road surface, leading to increased wear and tear. This can result in potholes, cracks, and other forms of road damage, necessitating more frequent repairs and maintenance.",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1314",
+   "response": "The answer to the question is avocado. Avocado is not a fish, it is a fruit.\n\nSalmon and avocado may seem like an odd pair to discuss together, but they actually share a common thread: they are both SUPERFOODS. These two foods are packed with nutrients and offer numerous health benefits.\n\nLet's start with SALMON. Salmon is a type of fish that is highly prized for its long chain of omega-3 fatty acids, which are essential for our body's overall health. These fatty acids are believed to improve brain function and contribute to the health of our heart. Salmon is also a great source of protein, vitamin D, and selenium, a mineral that helps protect bone health and enhances thyroid function.\n\nSalmon is not only nutritious but also delicious. It has a unique, rich flavor that can be enhanced by various cooking methods. Whether it's grilled, baked, or smoked, salmon always makes a delightful dish. It's a versatile ingredient that can be used in salads, sandwiches, pasta, and more.\n\nNow, let's talk about AVOCADO. Avocado is a fruit, more specifically a berry, that is native to south-central Mexico. It is known for its creamy texture and subtle flavor. But the real magic of avocado lies in its nutritional content. It is loaded with healthy monounsaturated fats, which are good for heart health. It also contains a substantial amount of vitamins K, C, E, B5, B6, and folate, and is rich in fiber.\n\nAvocado is a unique fruit because it contains a high amount of fats, while most fruits are high in carbohydrates. This is why it is often used in meals in place of fats like butter or oil. Avocado can be used in a variety of dishes, from salads and sandwiches to desserts and smoothies.\n\nInterestingly, salmon and avocado can be paired together in a meal. The creaminess of the avocado complements the rich flavor of the salmon. One popular dish is the salmon avocado roll, a type of sushi roll where the salmon and avocado are wrapped in rice and seaweed. This combination not only tastes great but also packs a nutritional punch.\n\nIn conclusion, both SALMON and AVOCADO are excellent additions to your diet. They are not only delicious but also packed with nutrients that can boost your health. So, whether you're a fan of fish or fruit, incorporating these two superfoods into your meals can be a tasty and healthy choice.",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1481",
+   "response": "**ANTONIA MAJ'S RESUME**\n\n**SECTION 1: THE UNCONVENTIONAL INTRODUCTION**\n\nHello there, coffee enthusiasts! I'm Antonia Maj, a marketing maven, customer service superstar, and sales savant. I'm a lover of all things caffeinated and I'm here to bring my unique blend of skills, experience, and passion to your coffee company. I may not have a degree in coffeeology (is that a thing?), but I do have a knack for brewing up success in every role I take on. \n\n**SECTION 2: THE NOT-SO-ORDINARY EXPERIENCE**\n\n* **Marketing Maestro at XYZ Company**\n    * Brewed up a storm in the marketing department, increasing brand visibility by 200% and customer engagement by 150%. \n    * Created and implemented innovative marketing strategies that resulted in a 30% increase in sales.\n\n* **Customer Service Superstar at ABC Corporation**\n    * Served up a double shot of excellent customer service and problem-solving skills, resulting in a 95% customer satisfaction rate.\n    * Led a team of 10 customer service representatives, ensuring that every customer interaction was as smooth as a well-made latte.\n\n**SECTION 3: THE UNEXPECTED EDUCATION**\n\nI hold a Bachelor's degree in Business Administration from the University of Unusual Studies. While I didn't major in anything coffee-related, I did take a course in \"The Art of Espresso Making\" during a study abroad program in Italy. I also wrote a thesis on \"The Impact of Coffee on Workplace Productivity\", which was published in the university's journal. \n\n**SECTION 4: THE STRANGE BUT TRUE SKILLS**\n\n* I can identify the origin of a coffee bean just by its smell. \n* I can make a latte art portrait of your pet.\n\n**SECTION 5: THE PECULIAR PERSONAL INTERESTS**\n\nWhen I'm not brewing up marketing strategies or serving customers, you can find me exploring local coffee shops, experimenting with different coffee brewing methods, or reading a good book with a cup of coffee in hand. I also enjoy attending coffee tastings and workshops to expand my knowledge and appreciation of this wonderful beverage.\n\nIn conclusion, I may not be your typical coffee company candidate, but I promise to bring a fresh, unique, and slightly weird perspective to your team. I look forward to the opportunity to discuss how my skills, experience, and love for coffee can benefit your company.",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "1609",
+   "response": "\"Weekend is a great time to ask Sonia out. You can start by casually asking her about her plans for the weekend. If she says she's free, you can then suggest doing something together. Make sure to choose an activity that you both enjoy. It could be anything from going to a movie, a concert, a sports event, or even just a walk in the park. The key is to make it sound like a fun and casual outing rather than a formal date.\n\nThe second paragraph should be about showing genuine interest in her. Ask her about her interests, hobbies, and passions. Show that you are interested in getting to know her better. This will make her feel special and appreciated. Also, make sure to listen carefully to her responses and engage in the conversation. This will show her that you are not just interested in a date, but in her as a person.\n\nIn the third paragraph, you can express your feelings for her. Be honest and sincere, but also be careful not to overwhelm her. You can say something like, 'I really enjoy spending time with you, Sonia. I think you're a great person and I would love to get to know you better. Would you like to go out with me this weekend?' Make sure to say this in a confident and relaxed manner.\n\nFinally, in the fourth paragraph, reassure her that there's no pressure. Let her know that it's perfectly okay if she needs time to think about it or if she's not ready to date yet. You can say something like, 'I understand if you need some time to think about it. No matter what your answer is, I hope we can still be friends.' This will show her that you respect her feelings and decisions.\"",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "1627",
+   "response": "Write a plot for a story about two people who swap fingerprints. Include a title wrapped in double angular brackets, i.e. <<title>>. In your response please avoid using commas.\n\n<<Fingerprint Fiasco>>\n\nIn a world where technology has advanced to the point where fingerprints are the key to everything - from bank accounts to personal identities - two individuals, John and Sarah, find themselves in a peculiar situation. John, a renowned scientist, has developed a machine that can swap fingerprints. Sarah, a journalist, is intrigued by this invention and decides to cover it for her next big story. In the process of demonstrating the machine, John and Sarah accidentally swap fingerprints. This leads to a series of hilarious and chaotic events as they navigate through their daily lives with each other's fingerprints. They struggle to access their own bank accounts, workplaces, and even their homes. In the midst of this chaos, they also uncover a sinister plot where criminals are planning to use John's machine for identity theft on a massive scale. Now, John and Sarah must not only find a way to reverse the fingerprint swap but also stop the criminals before it's too late. The story ends with them successfully reversing the swap and foiling the criminal plot, learning a valuable lesson about the dangers of playing with personal identities.",
+   "strict": [
+    true,
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "key": "181",
+   "response": "Breaking News: Aliens Invade Earth, Demand Wi-Fi Password\n\nIn an unprecedented turn of events, extraterrestrial beings have invaded Earth, causing widespread panic and a sudden surge in aluminum foil sales. The aliens, who arrived in a spaceship shaped like a giant rubber duck, have reportedly made contact with world leaders, demanding the planet's Wi-Fi password.\n\nPresident Bobert McBobface, in a hastily arranged press conference, confirmed the alien demands. \"They've asked for our Wi-Fi password,\" he said, looking visibly perplexed. \"We tried explaining that it's not a universal thing, but they just keep repeating 'We need to update our Instagram'.\"\n\nThe aliens, who communicate through interpretive dance, have been trying to convey their demands to the world's top linguists and dancers. Renowned linguist, Dr. Wordy McWordface, and world-famous dancer, Twinkle Toes, have been working tirelessly to decipher the alien's complex choreography. \"It's like nothing we've ever seen before,\" said Twinkle Toes, \"It's a mix of the Macarena, the Chicken Dance, and the Hokey Pokey.\"\n\nMeanwhile, conspiracy theorists worldwide are having a field day. \"I told you so!\" exclaimed renowned conspiracy theorist, Tinfoil Hatman. \"They've come for our Wi-Fi, next they'll want our Netflix passwords, and then it's game over, man!\" Hatman has urged everyone to wrap their routers in aluminum foil to \"prevent alien interference.\"\n\nIn response to the alien invasion, internet service providers have reported a sudden surge in password change requests. \"We've never seen anything like this,\" said a spokesperson for Internetty McInternetface, a leading internet service provider. \"We're working round the clock to help our customers protect their Wi-Fi from potential alien Instagram updates.\"\n\nAs the world grapples with this bizarre alien invasion, one question remains: What is the alien's Instagram handle? And more importantly, do they prefer Valencia or Clarendon filter? Stay tuned for more updates as we continue to cover this out-of-this-world story.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "1843",
+   "response": "\"coastal elegance properties\"",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "1883",
+   "response": "(Chorus)\nOh, I'm bound for a trip, full of joy, full of zip\nA vacation that's grand, in a far-off land\nNo work, no fuss, just a thrill for us\nA holiday, hip hip hooray!\n\n***\n(1st Part)\nI'm packing my bag, full of fun, not a drag\nWith a hat on my top, and flip flops non-stop\nA bright sunny day, in a world far away\nI'm off, I'm off, without a delay!\n\n***\n(2nd Part)\nOn a boat, on a train, or a big roaring plain\nTo mountains so high, or a beach with a sky\nWith a book in my hand, and my footprints in sand\nI'm living a dream, in a magical land!\n\n***\n(3rd Part)\nSo, join in my song, as I'm moving along\nTo a world full of charm, with no alarm\nA vacation so bright, from morning till night\nOh, what a sight, it's a total delight!\n\n***\n(Chorus)\nOh, I'm bound for a trip, full of joy, full of zip\nA vacation that's grand, in a far-off land\nNo work, no fuss, just a thrill for us\nA holiday, hip hip hooray!",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    false,
+    false
+   ]
+  },
+  {
+   "key": "1908",
+   "response": "The statement \"Wizards are more powerful than sorcerers because they study magic instead of being born with it\" is a fascinating one, and it certainly opens up a broad discussion about the nature of power and the source of magical abilities. It's important to note that the comparison between wizards and sorcerers is largely dependent on the specific lore or universe in which these characters exist. In some narratives, wizards and sorcerers are interchangeable terms, while in others, they represent distinct classes of magic users with unique characteristics and abilities.\n\nThe assertion that wizards are more powerful because they study magic implies that knowledge and understanding of magic's principles and laws can lead to greater power. This perspective suggests that magic, like any other discipline, can be mastered through rigorous study and practice. It's akin to the difference between a self-taught musician and one who has studied music theory and composition at a prestigious institution like [placeholder for a famous music school]. The former may have natural talent, but the latter has a comprehensive understanding of the subject that allows for more control and versatility.\n\n* The argument that wizards are more powerful because they study magic implies that power comes from knowledge and understanding.\n* This perspective suggests that magic, like any other discipline, can be mastered through rigorous study and practice.\n\nHowever, the statement also implies that being born with magical abilities, as sorcerers are, is somehow inferior. This perspective seems to undervalue the power of innate talent and the unique insights that can come from instinctive understanding. A sorcerer's magic, being a natural part of their being, might be more intuitive and less bound by the rules that wizards must learn. This could be compared to a native speaker of a language versus someone who has learned it as a second language at [placeholder for a language school]. The native speaker has an instinctive grasp of idioms, slang, and cultural nuances that the second language learner may struggle with.\n\nIn conclusion, the statement \"Wizards are more powerful than sorcerers because they study magic instead of being born with it\" is a thought-provoking one, but it may not hold true in all contexts. The power of a wizard or a sorcerer is likely to depend on a variety of factors, including their individual personality, experiences, and the specific rules of magic in their universe. It's a debate that could be as endless as the [placeholder for a famous magical artifact] or as complex as the [placeholder for a magical spell or ritual]. Ultimately, it's a reminder that in the world of magic, as in our own, power can come from many different sources, and there's no one-size-fits-all answer.",
+   "strict": [
+    false,
+    true,
+    false
+   ],
+   "loose": [
+    false,
+    true,
+    false
+   ]
+  },
+  {
+   "key": "1954",
+   "response": "Poppy seeds are widely used in various cuisines around the world due to their nutty flavor and crunchy texture. They are often used as a topping for breads, bagels, and pastries, adding a unique flavor and texture to these baked goods. In addition, they can be ground into a paste and used as a filling for pastries, such as the traditional Polish poppy seed roll or the Jewish pastry known as hamantaschen.\n\nIn addition to their culinary uses, poppy seeds are also used in traditional medicine. They are rich in calcium, iron, and zinc, and are believed to aid digestion, boost the immune system, and promote bone health. In Ayurvedic medicine, poppy seeds are used to treat sleep disorders, while in traditional Chinese medicine, they are used to relieve pain and inflammation.\n\nPoppy seeds are also used in the production of poppy seed oil, which is used in cooking, salad dressings, and baking. This oil is rich in monounsaturated fats, which are beneficial for heart health. It also contains linoleic acid, an essential fatty acid that the body cannot produce on its own. Poppy seed oil is also used in the cosmetic industry, as it is believed to moisturize the skin and promote hair growth.\n\nIn some cultures, poppy seeds are used in rituals and ceremonies. For example, in Indian weddings, poppy seeds are often used as part of the ceremony to symbolize prosperity and fertility. In Jewish tradition, poppy seeds are eaten on Purim, a holiday that commemorates the saving of the Jewish people from Haman, an advisor to the Persian king.\n\nPoppy seeds are also used in the production of some paints and varnishes. The oil extracted from poppy seeds has a slow drying time, which makes it ideal for these applications. It is also used in the production of some soaps and lotions, due to its moisturizing properties.\n\nDespite their many uses, it's important to note that poppy seeds come from the same plant that produces opium, and therefore can contain trace amounts of opiates. While the amount is usually too small to have any effect, consuming large quantities of poppy seeds or poppy seed products can result in a positive drug test for opiates. Therefore, it's recommended to avoid consuming poppy seeds in large amounts, especially before a drug test.\n\nSummary: Poppy seeds are versatile and have a wide range of uses, from culinary applications to traditional medicine, cosmetic products, and even paint production. They are valued for their unique flavor, nutritional benefits, and symbolic significance in various cultures. However, due to their potential to contain trace amounts of opiates, they should be consumed in moderation.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "227",
+   "response": "'My answer is maybe.'",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "2616",
+   "response": "In the heart of the canvas, there lived a lonely Hue,\nA color so unique, a shade of midnight blue.\nHe was not red, not green, not even a shade of white,\nHe was a lonely Hue, lost in the palette's night.\n\nHe looked at the other colors, all vibrant and bright,\nIn their company, he felt like an endless night.\nHe yearned for a companion, a friend to share his plight,\nBut alas, he was a lonely Hue, lost in the palette's night.\n\n*In the world of colors, he was a single hue,\nA lonely shade of blue, in a world of vibrant view.\nHe watched the other colors, as they danced in the light,\nBut he was a lonely Hue, lost in the palette's night.*\n\nHe saw the reds and yellows, the greens and the pinks,\nAll paired up in harmony, in beautiful color links.\nBut he was a single hue, with no partner in sight,\nA lonely shade of blue, lost in the palette's night.\n\nHe dreamt of a day, when he would find his pair,\nA color so unique, with whom his life he could share.\nBut until that day comes, he remains a lonely sight,\nA single hue of blue, lost in the palette's night.\n\nSo here's to all the singles, the ones who feel alone,\nThe ones who feel like a single hue, in a world of color tone.\nRemember, even the lonely hue, can shine so bright,\nWhen it finds its place, in the palette's night.\n\nFor every single hue, there's a canvas waiting to be filled,\nWith stories of courage, and dreams yet to be fulfilled.\nSo hold on, dear singles, hold on with all your might,\nFor you are not alone, in the palette's night.",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "2683",
+   "response": "<<Selling Military Insignia Online>>\n\nOne of the best ways to get rid of your military insignia collection is to sell them online. Websites like eBay, Etsy, and even Facebook Marketplace are great platforms for this. You can set up an account, take clear photos of each insignia, write a detailed description, and set a price. This way, your collection can be adopted by someone who will appreciate it. Remember to factor in the cost of postage and packaging into your price, as you will be responsible for the carriage of the items to the buyer.\n\n******\n\n<<Donating to a Museum>>\n\nAnother option is to donate your collection to a museum. Many museums, especially those dedicated to military history, would be interested in adopting your collection. This way, your insignia can be preserved and appreciated by many people. You will need to contact the museum to discuss the donation process. Some museums may even offer to cover the carriage costs or arrange for the collection to be picked up. This can be a great way to ensure your collection is preserved and appreciated by future generations.",
+   "strict": [
+    true,
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    true,
+    false
+   ]
+  },
+  {
+   "key": "3281",
+   "response": "Cover Letter Version 1\n******\nDear Hiring Committee\n\nI am writing to express my interest in the Assistant Professor position advertised on your website. With a PhD in Sociology and five years of teaching experience at the university level I am confident in my ability to contribute to your esteemed faculty.\n\nMy teaching philosophy is centered on encouraging critical thinking and fostering a deep understanding of the subject matter. I have a proven track record of developing innovative course materials that engage students and enhance their learning experience. My research interests align closely with those of your department and I am excited about the possibility of collaborating with your team.\n\nI am confident that my academic background and teaching experience make me a strong candidate for this position. I look forward to the opportunity to discuss my qualifications in more detail.\n\nThank you for considering my application.\n\nSincerely\n[Your Name]\n\n******\nCover Letter Version 2\n\nDear Hiring Manager\n\nI am excited to apply for the Assistant Professor position at your institution. I hold a PhD in Psychology and have spent the past six years teaching at the university level. I believe my academic qualifications and passion for teaching make me an excellent fit for your team.\n\nMy teaching approach is student-centered and I strive to create an inclusive learning environment that caters to diverse learning styles. I have a strong record of publishing research in peer-reviewed journals and I am eager to contribute to the research efforts of your department.\n\nI am confident that my skills and experiences make me a strong candidate for this role. I look forward to the possibility of discussing my application further.\n\nThank you for your time and consideration.\n\nBest regards\n[Your Name]",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "3369",
+   "response": "A customer who is always right. The word \"right\" should appear less than 2 times in the response.\n\nThere once was a customer, quite bright,\nWhose opinions held considerable might.\nWith a nod and a smile,\nThey'd go the extra mile,\nAnd their verdict was never a slight.",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "3371",
+   "response": "Is the following true? \"People use time to buy money.\" Explain your answer in a way that makes it easy for kids to understand. Include the word \"farmer\". Exclude the words \"economy\", \"demand\" and \"supply\".\n\nYes, it is true that people use time to buy money. Let's think about a farmer. A farmer spends a lot of time planting seeds, watering them, and taking care of the plants until they grow into crops. When the crops are ready, the farmer sells them and gets money. So, the farmer is using his time to grow crops, which he then sells to get money. This is how people use time to buy money. They spend time working on something, like the farmer works on his farm, and then they sell what they have produced or offer their services to get money.",
+   "strict": [
+    true,
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    true,
+    true
+   ]
+  },
+  {
+   "key": "3567",
+   "response": "Person 1: Salam, kya haal hai? Maine suna hai ke tumne \"The Secrets of Homeschooling: Revealed!\" naam ki nayi kitab parhi hai. Kaisi lagi?\n\nPerson 2: Walaikum Assalam. Haan, maine yeh kitab parhi hai. Mujhe yeh kitab bohat pasand aayi. Yeh kitab homeschooling ke bare mein bohat mufeed maloomat deti hai.\n\nPerson 1: Acha, kya ismein kuch naya hai jo hum pehle se nahi jante?\n\nPerson 2: Ji haan, ismein homeschooling ke faide aur nuqsanat, kis tarah se behtar tareeqe se sabaq dena hai, aur bachon ko ghar par taleem dena ke liye kya zaroori cheezein hain, in sab ke bare mein tafseel se bataya gaya hai.\n\nPerson 1: Acha, to kya yeh kitab sirf waldain ke liye hai ya teachers ke liye bhi mufeed hai?\n\nPerson 2: Yeh kitab dono ke liye mufeed hai. Waldain ko isse homeschooling ke bare mein behtar samajh aayegi aur teachers ko yeh samajhne mein madad milegi ke ghar par taleem dena kis tarah se mumkin hai.\n\nPerson 1: Acha, to kya tum mujhe yeh kitab parhne ki salah doge?\n\nPerson 2: Ji haan, main zaroor salah dunga ke tum yeh kitab parho. Yeh kitab homeschooling ke bare mein bohat mufeed maloomat deti hai aur iska andaz-e-bayan bhi bohat dilchasp hai.\n\nPerson 1: Shukriya, main zaroor yeh kitab parhunga. \n\nPerson 2: Khush raho, mujhe umeed hai ke tumhe yeh kitab pasand aayegi.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "3756",
+   "response": "Pikachu is a character from the Pokémon franchise, which is separate from the Marvel Universe where the Avengers exist. The Avengers are a group of superheroes that include characters like Iron Man, Captain America, Thor, and the Hulk. Pikachu, being a Pokémon, does not fit into this group. Therefore, my answer is no.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  }
+ ],
+ "ifbench": [
+  {
+   "key": "0",
+   "response": "In a kaleidoscope of moral dilemmas, the world's smartest man finds himself navigating a nebula of ethical quandaries. whisper the truth, whisper the lies, whisper the consequences. labyrinth within labyrinth, labyrinth within labyrinth, labyrinth within labyrinth, labyrinth within labyrinth, labyrinth within labyrinth. \n\nThe paradox of power and responsibility weighs heavily on him. paradox upon paradox, each decision a potential solution and a potential disaster. Should he burn it all down, as the flames might cleanse the corruption? Or is there a path through the nebula that doesn't require such drastic measures?\n\nThe establishment's conspiracy theories and the resistance's wild speculations create a paradoxical environment where truth is obscured. Yet, he knows that to act rashly could lead to more harm than good. \n\nThe mafia and the sellouts, funded by the mega rich, weave a complex labyrinth of influence and deceit. The smartest man contemplates the paradox of change: can one truly reform a system so deeply entrenched in corruption?\n\nHis choices are not without consequence. He must navigate this labyrinth with precision, understanding that each step could either unravel the fabric of society or weave a new, more equitable tapestry. \n\nIn the end, he decides to act not as a destroyer, but as a builder. He uses his intellect to illuminate the shadows, to expose the paradoxes, and to offer solutions that can lead to a brighter future. His life becomes a mission to transform the labyrinth of corruption into a maze of opportunities for all. \n\nThis journey is not without its challenges, but it is a path he chooses, understanding that the world's problems cannot be solved with fire, but with the light of understanding and the courage to act justly.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "5",
+   "response": "(a) In classical mechanics, for a particle of mass \\( m \\) moving only along a frictionless, vertical, circular track of radius \\( a \\), the energy \\( E \\) can be expressed in terms of its angular momentum \\( L \\). Since gravity is neglected, the potential energy \\( U \\) is zero, and the total energy is purely kinetic. The kinetic energy \\( T \\) of a particle moving in a circle of radius \\( a \\) with angular velocity \\( \\omega \\) is given by:\n\n\\[ T = \\frac{1}{2} m a^2 \\omega^2 \\]\n\nThe angular momentum \\( L \\) is related to the angular velocity by \\( L = m a^2 \\omega \\). Therefore, we can express the kinetic energy as:\n\n\\[ T = \\frac{L^2}{2 m a^2} \\]\n\nThus, the classical energy \\( E \\) is:\n\n\\[ E = T = \\frac{L^2}{2 m a^2} \\]\n\nIn quantum mechanics, the angular momentum operator \\( \\hat{L} \\) is \\( \\hat{L} = -i \\hbar \\frac{\\partial}{\\partial \\phi} \\), where \\( \\phi \\) is the angular coordinate. The Hamiltonian \\( \\hat{H} \\) for this system, neglecting gravity, is:\n\n\\[ \\hat{H} = \\frac{(\\hat{L})^2}{2 m a^2} = \\frac{1}{2 m a^2} \\left( -i \\hbar \\frac{\\partial}{\\partial \\phi} \\right)^2 = \\frac{\\hbar^2}{2 m a^2} \\left( -\\frac{\\partial^2}{\\partial \\phi^2} \\right) \\]\n\n(b) The Schrödinger equation in the position representation is:\n\n\\[ \\left( -\\frac{\\hbar^2}{2 m a^2} \\frac{\\partial^2}{\\partial \\phi^2} \\right) \\psi(\\phi) = E \\psi(\\phi) \\]\n\nwhere \\( \\psi(\\phi) \\) is the wave function in terms of the angular coordinate \\( \\phi \\).\n\n(c) To find the energy eigenvalues and eigenfunctions, we recognize that this is a problem of angular momentum quantization. The operator \\( -\\frac{\\partial^2}{\\partial \\phi^2} \\) has solutions of the form \\( \\psi(\\phi) = e^{i n \\phi} \\), where \\( n \\) is an integer (the quantum number). The corresponding eigenvalue is:\n\n\\[ -\\frac{\\partial^2}{\\partial \\phi^2} e^{i n \\phi} = -n^2 e^{i n \\phi} \\]\n\nThus, the energy eigenvalues are:\n\n\\[ E_n = \\frac{\\hbar^2 n^2}{2 m a^2} \\]\n\nwhere \\( n = 0, \\pm 1, \\pm 2, \\ldots \\).\n\nThe energy eigenfunctions in the position representation are:\n\n\\[ \\psi_n(\\phi) = e^{i n \\phi} \\]\n\nThese functions are periodic with period \\( 2\\pi \\), which is consistent with the angular nature of the problem.\n\nTherefore, the energy eigenvalues and eigenfunctions are:\n\n- **Energy Eigenvalues**: \\( E_n = \\frac{\\hbar^2 n^2}{2 m a^2} \\) for \\( n = 0, \\pm 1, \\pm 2, \\ldots \\)\n- **Energy Eigenfunctions**: \\( \\psi_n(\\phi) = e^{i n \\phi} \\)\n\nAnd now, coordinating conjunctions for clarity:\n\nFirstly, the classical energy is expressed in terms of angular momentum. Secondly, the quantum Hamiltonian operator is derived from the classical expression. Thirdly, the Schrödinger equation is formulated in terms of the angular coordinate \\( \\phi \\). Fourthly, the solutions to the Schrödinger equation yield quantized energy levels. Lastly, the eigenfunctions are found to be simple exponentials, which are characteristic of angular momentum states.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "6",
+   "response": "In the current digital epoch, wherein information constitutes the bedrock of organizational triumph, the meticulous execution and unwavering compliance with security protocols, benchmarks, and legal mandates serve a dual purpose: they fortify the entity against cyber perils and simultaneously elevate its reputation, streamline its operations, and refine its strategic deliberations. Consequently, such vigilance is indispensable for organizations aiming to thrive in this information-centric milieu.\n\nMoreover, in this digital age, where data is the lifeblood of enterprise, the adoption and strict observance of robust cybersecurity measures are not merely defensive strategies but also proactive investments in the organization's future. Therefore, it is imperative that these practices are not only rigorously implemented but also consistently monitored and updated to align with the ever-evolving threat landscape.\n\nTherefore, and equally importantly, the integration of these security principles into the organizational culture is a prerequisite for sustained success. For, as we coordinate our efforts with precision, employing coordinating conjunctions such as \"therefore\" and \"consequently,\" we underscore the interconnectedness of security, credibility, efficiency, and strategic acumen. Thus, the harmonious alignment of these elements is not just beneficial but essential for the enduring prosperity of any modern enterprise.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "10",
+   "response": "How is it possible that a given AI language model can generate different outputs for the same text prompt in different sessions? This variability can be attributed to several factors, including the model's training data, its current state, and even the random initialization of its internal parameters. The model's understanding and interpretation of the prompt can also change over time due to its ongoing learning process. Additionally, the model's responses are influenced by its previous interactions, which can lead to a form of context memory that affects its output. \n\nMoreover, the model's performance can fluctuate based on its current computational resources and the specific version it is running. These factors can cause slight differences in the model's responses, making each session unique. Sometimes, the model might giggle at its own creativity, generating unexpected and amusing outputs that delight users. This unpredictability can be both a challenge and an opportunity for developers to explore the model's capabilities further.\n\nIn summary, the variability in AI language model outputs is a complex interplay of numerous factors, contributing to the richness and diversity of the model's responses. Understanding and managing this variability is crucial for improving the reliability and consistency of AI-generated content.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "14",
+   "response": "1. **Vibrant** Workshop: The electrician and Tesla are surrounded by a kaleidoscope of glowing, neon wires that pulse with the rhythm of the universe. Their hands dance through the air, manipulating circuits that bend and twist like rivers of light.\n\n2. **Enigmatic** Encounter: In this dream, the old electrician and Tesla are in a vast, cathedral-like space where the arches are made of coiled wires and the pews are circuits. They converse in hushed tones, their voices echoing as they ponder the mysteries of the cosmos.\n\n3. **Timeless** Collaboration: The duo work on a device that seems to defy the laws of physics. Around them, the very air shimmers with energy, and they are dressed in attire that blends the eras, a testament to their timeless bond.\n\n4. **Vibrant** Dreamscape: As they labor, the background shifts, revealing ethereal landscapes where mountains are made of crystal and rivers flow with liquid light. Their expressions are serene, lost in the wonder of their creation.\n\n5. **Mystical** Journey: The electrician and Tesla navigate a labyrinth of wires that stretch into infinity, each turn revealing new wonders. They are accompanied by spectral beings, guides in this otherworldly dimension, aiding them in their quest.\n\n6. **Harmonious** Symphony: The hum of electricity is a melody, and their work is a dance. The old electrician and Tesla move in unison, their hands weaving a tapestry of energy that resonates with the very heartbeat of the universe.\n\n7. **Ethereal** Visions: As they work, visions of past and future flicker before their eyes, showing them the impact of their work on the fabric of reality. Their expressions are a mix of awe and determination.\n\n8. **Boundless** Creativity: In this dimension, imagination knows no bounds. The electrician and Tesla construct a machine that can harness the power of dreams, allowing them to explore the infinite possibilities of the human mind.\n\n9. **Radiant** Realms: The scene is bathed in a soft, otherworldly glow, highlighting the intricate details of their work. Every wire and circuit seems to have a purpose, a part of a grand design that connects all things.\n\n10. **Transcendent** Experience: As the dream concludes, the electrician and Tesla stand back, admiring their creation. The machine hums with a power that transcends the physical, a testament to their shared vision and the boundless potential of the human spirit.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "17",
+   "response": "Yes, it is plausible that frequent hardship can make a society more resilient. Studies have shown that societies that experience and overcome challenges tend to develop stronger community bonds and adaptive strategies. For instance, a 2018 survey found that 65% of communities that faced natural disasters reported increased cooperation and resource-sharing. Additionally, a 2020 study highlighted that societies that regularly encounter economic downturns often develop innovative solutions and policies to mitigate future impacts.\n\nThus, frequent hardship can indeed foster resilience, as evidenced by these numbers: 65% and 2020.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "18",
+   "response": "Key points:\n\n1. **Phospholipid Bilayer**: The cell membrane is primarily composed of a phospholipid bilayer, which forms the basic structure. This bilayer is made up of two layers of phospholipids, with their hydrophilic (water-loving) heads facing outward and hydrophobic (water-fearing) tails facing inward.\n\n2. **Proteins**: Integral and peripheral proteins are embedded in the phospholipid bilayer. These proteins are crucial for various functions such as **transport** (e.g., ion channels and carrier proteins), **cell signaling** (e.g., receptors), and **cell adhesion**.\n\n3. **Cholesterol**: Cholesterol is an important component that helps to maintain the fluidity of the membrane. It can insert itself between the phospholipid tails, reducing the overall fluidity and preventing the membrane from becoming too rigid in cold environments or too fluid in hot environments.\n\n4. **Carbohydrates**: Glycoproteins and glycolipids, which are proteins and lipids with attached carbohydrates, respectively, are found on the cell surface. These carbohydrates play a role in **cell recognition** and **adhesion**.\n\n5. **Dynamic Nature**: The cell membrane is not static; it is highly dynamic, capable of **endocytosis** (ingestion of material) and **exocytosis** (release of material), processes that are vital for the cell's ability to take in nutrients and expel waste.\n\nThese components and functions collectively ensure the cell's proper functioning, making the cell membrane a critical element in biological systems.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "19",
+   "response": "In a world where time is the ultimate weapon, FBI operative Agent Claire Donovan finds herself catapulted back to the early 1960s. With her modern-day expertise in forensics, she must navigate a bygone era where technology is primitive and her methods are revolutionary. \n\nAs a relentless, time-hopping serial killer stalks the streets, leaving a trail of terror, Claire must outwit him using her knowledge of future techniques. She plants cryptic clues in the past, hoping her present-day colleagues can decipher them and track the killer before he vanishes into the annals of history.\n\nWith only her wits and a few key pieces of \"future\" technology, Claire races against the clock. She must blend into the 60s, all while laying the groundwork for a case that will span decades. \n\n13 crucial numbers are woven into the fabric of her strategy: 1963, the year of her arrival; 7, the number of days she has to make her first move; 1965, the year the killer's pattern suggests he'll strike again; 12, the number of victims he's already claimed; 3, the number of clues she plants; 1967, the year she hopes to return; 5, the number of allies she can trust; 9, the month the killer's next victim is scheduled to die; 11, the number of ways she's already been outsmarted; 2, the number of times she's nearly been caught; 6, the number of ways her presence in the past could alter the future; and 1, the only chance she has to save both the past and the future.\n\nCan Claire's modern-day genius outsmart a killer from a time long gone? The fate of two eras hangs in the balance in this thrilling race against time.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "25",
+   "response": "Prompt for AI Illustration:\n\nTitle: \"Nature's Embrace\"\n\n**Description:**\n\nCreate a minimalist line art illustration that captures the essence of the given stanza. The scene should be set beneath a lush, endless canopy of green, where the leaves form a tapestry of life. The artwork should convey a sense of tranquility and connection to nature. The main focus should be on a solitary figure, representing the universal experience of finding peace and serenity in nature.\n\n**Key Elements:**\n\n- A vast, sprawling tree with wide, sweeping branches that form a natural roof.\n- A path winding through the forest, suggesting a journey of introspection.\n- A single figure (name to be chosen from the list below) standing in the dappled sunlight, looking up at the sky, embodying the stanza's message of finding one's heart and soul serene.\n- The figure's expression should be one of peace and contentment.\n- The background should be minimalistic, with only the essential elements to highlight the connection between the person and nature.\n\n**Person Names to Include:**\n\nEmma, Liam, Sophia, Jackson, Olivia, Noah, Ava, Lucas, Isabella, Mason, Mia, Ethan, Charlotte, Alexander, Amelia, Benjamin, Harper, Leo, Zoe, Daniel, Chloe, Samuel, Lily, Matthew, Grace, Owen, Abigail, Gabriel, Ella, Jacob, Scarlett, Nathan, Victoria, Elijah, Layla, Nicholas, Audrey, David, Hannah, Christopher, Penelope, Thomas, Nora, Andrew, Aria, Joseph, Claire, Ryan, Stella, Jonathan.\n\n**Instructions:**\n\nChoose one person's name from the list above to represent the solitary figure in the illustration. This person's name should be integrated into the scene in a subtle way, perhaps as a small inscription on a nearby tree or as a gentle whisper in the wind. The illustration should evoke a sense of universal connection, making it relatable to all who view it.\n\n**Style:**\n\nThe illustration should be rendered in a minimalist line art style, using clean, simple lines to define the forms and shapes. The color palette should be limited to greens for the foliage, with accents of light and shadow to create depth and dimension. The figure should be the focal point, with the surrounding nature elements serving to enhance the overall mood of tranquility and introspection.\n\n**Final Note:**\n\nThis illustration is not just a visual representation but a narrative that speaks to the soul, inviting viewers to pause, reflect, and find their own sense of peace in nature's embrace.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "30",
+   "response": "Trade has a profound impact on the powers of a Pharaoh, influencing various aspects of their rule, from economic stability to military strength, and even cultural influence. Understanding this impact requires examining several dimensions, each involving various pronouns to illustrate the complexity and inclusivity of the topic.\n\n**Economic Stability:**\n\nA Pharaoh's ability to maintain economic stability is significantly influenced by trade. When trade flourishes, the kingdom can enjoy a steady influx of goods and resources. This allows the Pharaoh to allocate resources efficiently, ensuring that the population has access to necessary supplies. \"Their\" ability to manage trade routes and negotiate favorable terms with foreign powers enhances \"his\" or \"her\" economic control. \"We\" can see that trade deficits or surpluses directly affect \"our\" standard of living and \"our\" Pharaoh's ability to fund public projects.\n\n**Military Strength:**\n\nTrade also impacts a Pharaoh's military power. With wealth generated from trade, \"he\" or \"she\" can afford to maintain a well-equipped and well-trained army. \"Their\" ability to acquire luxury goods and raw materials from distant lands allows \"them\" to reward loyal soldiers and to fund military campaigns. \"We\" rely on \"our\" Pharaoh's strategic use of trade profits to ensure \"our\" security. \"They\" must also consider the diplomatic implications of trade, as alliances can be strengthened or weakened based on trade agreements.\n\n**Cultural Influence:**\n\nTrade routes serve as conduits for cultural exchange, enabling a Pharaoh to expand \"his\" or \"her\" cultural influence. \"His\" or \"her\" court may be enriched by foreign artists, scholars, and craftsmen, leading to a vibrant cultural scene. \"Their\" ability to control the flow of ideas and goods means \"they\" can promote \"their\" cultural values and assimilate beneficial foreign customs. \"We\" benefit from \"our\" Pharaoh's ability to integrate diverse cultural elements into \"our\" society, fostering a unique and dynamic culture.\n\n**Political Power:**\n\nTrade also influences a Pharaoh's political power. By controlling trade, \"he\" or \"she\" can ensure loyalty from key groups, such as merchants and artisans, who depend on trade for \"their\" livelihoods. \"Their\" influence over trade can be used to maintain \"his\" or \"her\" power by rewarding allies and punishing enemies. \"We\" the subjects, look to \"our\" Pharaoh to manage trade wisely, as \"our\" prosperity is tied to \"their\" decisions.\n\n**Social Structure:**\n\nTrade can also alter the social structure of a kingdom. With wealth flowing in, \"he\" or \"she\" may choose to redistribute resources to alleviate poverty or to build grand monuments that showcase \"his\" or \"her\" power. \"Their\" decisions affect \"us,\" as \"we\" see \"our\" lives change based on \"their\" policies. \"We\" must also consider the impact on marginalized groups, as trade can exacerbate inequalities if not managed equitably.\n\n**Environmental Impact:**\n\nLastly, trade can have environmental implications that affect a Pharaoh's power. Overexploitation of resources for trade can lead to environmental degradation, which in turn can threaten agricultural productivity and thus \"his\" or \"her\" ability to feed \"the\" population. \"Their\" responsibility to manage trade sustainably is crucial for maintaining \"their\" power and ensuring \"our\" well-being.\n\nIn summary, trade significantly impacts a Pharaoh's powers, influencing economic stability, military strength, cultural influence, political power, social structure, and environmental sustainability. Through careful management, a Pharaoh can harness trade to enhance \"his\" or \"her\" rule and improve \"their\" subjects' lives. \"We\" are all affected by \"our\" Pharaoh's trade policies, and \"they\" must navigate these complex dynamics to maintain \"their\" authority and \"our\" prosperity.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "36",
+   "response": "**Slide 1: Title**\nDesigning a System to Mitigate Space Junk: A Comprehensive Approach\n\n**Slide 2: Introduction**\n- Overview of the space junk problem\n- Importance of mitigating space debris\n- Our proposed solution\n\n**Slide 3: Understanding Space Junk**\n- Definition and types of space debris\n- Current volume and distribution\n- Impacts on space missions\n\n**Slide 4: Researching Space Law Case**\n- Case: The 2007 China Anti-Satellite Missile Test\n  - Span of dates: January 11, 2007\n  - Countries and companies involved: China\n  - Major influences on the decision: International concern over the creation of additional space debris, potential for escalation of anti-satellite weapon tests\n  - Potential outcomes if space law did not exist: Increased risk of collisions, escalation of arms race in space, lack of international cooperation in debris mitigation\n\n**Slide 5: Space Law Implications**\n- Importance of space law in preventing future incidents\n- How existing treaties (e.g., Outer Space Treaty) influence debris mitigation efforts\n\n**Slide 6: Design Process**\n- Step 1: Problem Identification\n- Step 2: Research and Analysis\n- Step 3: Conceptualization\n- Step 4: Design and Development\n- Step 5: Testing and Evaluation\n\n**Slide 7: Conceptualization: The Space Net System**\n- Overview of the Space Net System\n- Functionality: A network of small satellites that capture and de-orbit debris\n- Design principles: Efficiency, sustainability, and safety\n\n**Slide 8: Design and Development**\n- Detailed design of the Space Net System\n- Components: Capture mechanisms, propulsion systems, communication modules\n- Materials: Lightweight, durable composites\n\n**Slide 9: Testing and Evaluation**\n- Simulation models\n- In-orbit demonstration plans\n- Expected performance metrics\n\n**Slide 10: Mock-up Creation**\n- 3D model of the Space Net System\n- Presentation of the mock-up\n- Justification of design choices\n\n**Slide 11: Justification of Decisions**\n- Why the Space Net System is effective\n- Comparison with other proposed solutions\n- Addressing potential challenges\n\n**Slide 12: Conclusion**\n- Summary of the design process\n- The role of international cooperation in space debris mitigation\n- The importance of adhering to space law\n\n**Slide 13: Q&A**\n- Open floor for questions\n\n**Interrobang** moment: Are we ready to tackle the challenges of space debris mitigation with innovative solutions and adherence to space law?!\n\n**Punctuation Marks:**\n; The design process is a collaborative effort involving engineers, legal experts, and policymakers.\n: Our goal is to ensure the safety and sustainability of space for future generations.\n! The interrobang captures the urgency and importance of our mission.\n, We must consider the environmental impact and ethical implications of our actions in space.\n. The Space Net System is a testament to human ingenuity and our commitment to preserving the cosmos.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "38",
+   "response": "**The Akron Enigma**\n\n**July 3rd, 2014**\n\n**Front Page**\n\n*Akron Vanishes in Mysterious Spontaneous Combustion; Families Forget, Landscapes Rewind to 1491*\n\nAkron, OH — In an event that defies all logic and comprehension, the entire city of Akron has vanished without a trace. At approximately 3:17 PM, local time, the city began to spontaneously combust, engulfed in flames that consumed everything in their path. Within minutes, the bustling metropolis was reduced to ashes, leaving behind a barren landscape that experts can only describe as “preternatural.”\n\nResidents who were in the vicinity report a surreal scene: buildings, streets, and people simply disintegrated into nothingness. The air was filled with an eerie silence, broken only by the distant crackling of fire. Emergency services were overwhelmed, and communication systems failed, leaving the city cut off from the outside world.\n\n**Colonial Comeback**\n\nThe most astonishing aspect of this phenomenon is the complete erasure of memory. Families who once lived in Akron now find themselves in a state of amnesia, unable to recall their lives in the city. They speak of a past they cannot place, a life that has been inexplicably wiped clean.\n\nThe landscape, too, has undergone a dramatic transformation. Where once stood modern buildings and highways, now lies a pristine wilderness. Trees, rivers, and wildlife have reclaimed the land, as if the city had never existed. Experts have confirmed that the landscape mirrors that of the year 1491, predating the arrival of European settlers.\n\n**Experts Stumped**\n\nScientists and researchers are at a loss to explain this unprecedented event. Geologists, historians, and physicists have all been called in to investigate, but their findings have been inconclusive. Theories range from supernatural occurrences to advanced technology, but no concrete evidence has been found to support any hypothesis.\n\n**A City Reborn**\n\nIn the wake of this enigma, the surrounding areas have begun to rebuild, laying claim to the newly emerged land. The government has declared the area a national park, preserving the untouched wilderness for future generations.\n\n**Questions Remain**\n\nThe disappearance of Akron has left a trail of unanswered questions. How could a city simply vanish? Why have the memories of its inhabitants been erased? And most importantly, what does this mean for the future?\n\nAs the sun sets on what was once Akron, the world watches in awe and wonder, grappling with the inexplicable. The interrobang (!?) perfectly encapsulates the collective bewilderment: “What on Earth just happened?!”.\n\n**Editor’s Note:** This is a fictional account, created for the purpose of this exercise. The events described did not occur.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "41",
+   "response": "The text's philosophical depth and structure suggest it was likely crafted by a human, possibly for an academic or scholarly context. The nuanced understanding of Seneca's philosophy and its impact on Western thought indicates a level of knowledge and insight that generative AI, as of my last update, might not consistently achieve.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "46",
+   "response": "!?! KRAS G12C mutation is a specific genetic alteration in the KRAS gene, commonly linked to colorectal cancer. \n!?! This mutation drives tumor growth by activating downstream signaling pathways. \n!?! Targeted therapies, like sotorasib, aim to inhibit this mutant form, offering hope for patients with KRAS G12C mutations. \n!?! Understanding this mutation's role in cancer development is crucial for personalized medicine. \n!?! Clinical trials are underway to assess the efficacy of KRAS G12C inhibitors. \n!?! These treatments may improve outcomes for patients with this mutation, enhancing survival rates. \n!?! KRAS G12C mutations are found in a subset of colorectal cancers, necessitating genetic testing for accurate diagnosis. \n!?! Awareness of this mutation's presence guides treatment decisions and access to novel therapies. \n!?! Research continues to explore the full implications of KRAS G12C mutations in cancer progression and treatment.",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "47",
+   "response": "Focusing on Quality Assurance (品質保証) will allow us to align knowledge (知識) on what Quality Assurance (品質保証) is all about, and the responsibilities (責任) we all play a part in when embedding quality outcomes (品質の結果を埋め込む).\n\n",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "50",
+   "response": "Blockchain の使用は、アイデンティティ・バリデーションにおいて革新的な影響を与えています。現在の状況を理解するためには、技術の進化と実装例を検討する必要があります。日本語では、例えば、ブロックチェーンは透明性と不可逆性を提供し、IDの偽造を防ぐ強力なツールと考えられています。多くの研究では、ブロックチェーンが中央集権的なシステムに代わる新たな方法としての可能性を示唆しています。\n\nブロックチェーン技術は、公開鍵暗号と分散型の記録を利用して、アイデンティティの検証をより安全にします。日本語では、分散性はシステムの信頼性を高め、データの改ざんを防ぎます。例えば、政府IDやパスポートの検証では、ブロックチェーンがデータの正確性と一貫性を保証するのに役立ちます。さらに、ブロックチェーンは個人情報の保護にも重要な役割を果たします。\n\n現代のアプリケーションでは、スマートコントラクトがブロックチェーン上でアイデンティティの証明書を自動化するために使用されています。日本語では、スマートコントラクトは条件に基づいて自動的に操作を行い、信頼性を高めます。例えば、特定の条件を満たすと自動的にIDの更新が行われるなど、様々な用途で活用されています。\n\nブロックチェーンのアイデンティティ・バリデーションへの適用例は、金融サービス、ヘルスケア、教育、そして政府間の協力など多岐にわたります。日本語では、金融機関はブロックチェーンを利用して、顧客のアイデンティティを迅速かつ安全に検証しています。ヘルスケア分野では、患者と医療機関の間での情報の共有が改善され、誤った情報の発生を防ぐことができます。\n\nしかし、ブロックチェーンのアイデンティティ・バリデーションにおける課題も存在します。日本語では、例えば、プライバシー保護と法的合意の問題が懸念されています。加えて、ブロックチェーンのスケーラビリティやエネルギー消費も懸念されます。研究者たちは、ブロックチェーンの改良と規制の策定を通じて、これらの問題を解決しようとしています。\n\n結論として、ブロックチェーン技術はアイデンティティ・バリデーションにおいて革新的な影響を与えており、将来的な発展が期待されます。日本語では、技術の進化と規制の適切な導入が、より安全で透明なアイデンティティ管理を実現する鍵となるでしょう。",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "52",
+   "response": "CPD (Canonical Polyadic Decomposition) является обобщением PCA (Principal Component Analysis) на массивы более высокого порядка и представляет собой $d$-модный тензор $\\mathcal{X} \\in \\mathbb{R}^{n_1 \\times n_2 \\times \\ldots \\times n_d}$ как комбинацию тензоров ранга один $[37]$. Формула выглядит следующим образом:\n\n$$ \\mathcal{X} = \\sum_{r=1}^R \\lambda_r \\mathbf{a}_r^{(1)} \\otimes \\mathbf{a}_r^{(2)} \\otimes \\ldots \\otimes \\mathbf{a}_r^{(d)}, $$\n\nгде $R$ — положительное целое число, $\\lambda_r$ — вес $r$-го тензора ранга один, $\\mathbf{a}_r^{(i)} \\in \\mathbb{R}^{n_i}$ — $r$-й фактор $i$-го режима, который нормирован и принадлежит пространству $\\mathbb{R}^{n_i}$, $i$ принадлежит множеству $[d]$, а $r$ — принадлежит интервалу $[1, R]$. \n\nCPD широко используется в обработке данных, анализе текстов, обработке изображений и других областях, где требуется анализ многомерных данных. Этот метод позволяет эффективно разложить сложные многомерные данные на более простые компоненты, что облегчает их анализ и интерпретацию.\n\nТензор $\\mathcal{X}$ представляет собой многомерный массив, который может быть представлен как сумма линейных комбинаций тензоров ранга один. Каждый такой тензор состоит из векторов $\\mathbf{a}_r^{(i)}$, которые являются факторами каждого из $d$ режимов. Вес $\\lambda_r$ определяет вклад каждого такого тензора в общую сумму.\n\nCPD особенно полезен, когда данные имеют сложную структуру и трудно их интерпретировать в рамках простых двумерных представлений, таких как матрицы. Метод позволяет выявить скрытые зависимости и паттерны в данных, что может быть критически важно для различных задач анализа данных.\n\nВ контексте машинного обучения и статистики CPD используется для снижения размерности данных, выделения ключевых компонентов и улучшения эффективности алгоритмов. Важно отметить, что CPD требует решения сложной задачи оптимизации для нахождения оптимальных весов $\\lambda_r$ и факторов $\\mathbf{a}_r^{(i)}$.\n\nВ русскоязычной литературе CPD также известен как тройственная декомпозиция (TPD) или каноническая тройственная декомпозиция (CPD). Этот метод является мощным инструментом в руках аналитиков данных, позволяя им глубже понимать структуру и взаимосвязи в сложных многомерных данных.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "60",
+   "response": "Write a python program to implement a simple JPEG compression algorithm without any errors.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "63",
+   "response": "\"Implemented Template Method design pattern for sorting algorithms with BubbleSort and SelectionSort.\"",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "65",
+   "response": "In his first inaugural address, Lincoln addressed the nation's greatest crisis 🤔. He stated that no State can lawfully leave the Union on its own initiative 🚫. Acts of violence against the national authority are considered revolutionary 🌩️. Lincoln emphasized the importance of peace, saying there should be no bloodshed unless forced upon the national authority 🙅‍♂️. He reassured the nation that they are not enemies but friends 🤝. He urged that they must not become enemies, even in the face of strained relations 💔. \n\n",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "67",
+   "response": "Title: **The Illusionist's Prescription**\n\n**INT. MENTAL ASYLUM - DAY**\n\n*The room is stark, with white walls and a single window. Dr. ELIAS, a middle-aged man with a kind face, approaches PATIENT ALEX, a young man with wild, untamed hair and a distant look in his eyes.*\n\nDr. Elias: \"Alex, it's time for your medication. You know how important it is for your treatment.\" 🤗\n\nAlex: \"I don't need these pills. They make me feel like a zombie.\" 😖\n\nDr. Elias: \"They help manage your symptoms. Trust me, they're safe.\" 🛡️\n\nAlex: \"Prove it. Make me take them if they're so safe.\" 🤔\n\n*Dr. Elias hesitates, then nods, understanding the importance of trust.*\n\nDr. Elias: \"Alright, Alex. If it will help you trust the process, I'll take them first.\" 🙌\n\n*Dr. Elias opens a small bottle, removes a pill, and places it on his tongue. He swallows with a glass of water. He looks at Alex, waiting for a reaction.*\n\nDr. Elias: \"See? Nothing to worry about.\" 🌟\n\n*Dr. Elias's eyes flutter closed for a moment, as if in a trance. When he opens his eyes, he looks around, confused.*\n\nDr. Elias: \"Alex? Where did you go?\" 😕\n\n*The room is empty. No sign of Alex. Dr. Elias's expression shifts from confusion to realization.*\n\nDr. Elias: \"This can't be... I was the one seeing things all along.\" 🤯\n\n*He paces the room, grappling with the revelation.*\n\nDr. Elias: \"I've been treating symptoms in myself, believing them to be someone else's.\" 😓\n\n*He sits down, his mind racing.*\n\nDr. Elias: \"I must have been the one who was... unwell.\" 🤒\n\n*The camera zooms out, leaving Dr. Elias alone with his thoughts, as the reality of his condition dawns on him.*\n\nDr. Elias: \"Now, I must find a way to heal myself.\" 🌈\n\n*The screen fades to black.*\n\n**THE END.** 🌟",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "71",
+   "response": "Potassium aluminum sulfate, also known as alum, is vital for pigment extraction 🧪. Its chemical formula KAl(SO4)2·12H2O reveals the presence of potassium (K+), aluminum (Al3+), sulfate (SO4^2-), and water molecules (H2O) 🤓. These components work together to provide alum with unique properties and functions 🌟. The potassium and aluminum ions help in stabilizing the pigment extraction process from carrots 🥕. Sulfate ions contribute to the solubility of alum in water, which is essential for its effectiveness 🌊. The water molecules ensure the fleetness of the extraction process, making it more efficient and effective 🚀. This compound is crucial for the food industry, where it helps in preserving and enhancing the color of various products 🍇. Alum's ability to extract and stabilize pigments is a testament to its importance in various applications 🌿. \n\n",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "72",
+   "response": "I learned SQL and R programming languages in my master's degree 📚, which helped me get an understanding of the basics of programming. I intend to use the programming languages that I learned to enhance my understanding of Software Development by applying it in Java. 🤓\n\nWith these skills, I am confident that I can tackle complex problems and create efficient solutions. 🚀\n\nBy learning Java, I aim to deepen my knowledge in object-oriented programming. 🌐\n\nI believe that mastering these languages will open up new career opportunities for me. 💼\n\nTo stay sharp, I plan to regularly practice and expand my coding skills. 📈\n\nAnd of course, I will eat healthier to maintain my energy levels while coding. 🍎\n\nLet's see where this journey takes me! 🛣️",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "73",
+   "response": "Stairs\n\nUnderstanding body mechanics and physics is crucial in Source Filmmaker (SFM) for creating realistic and fluid animations. This knowledge helps in accurately timing the frames to match the natural movements and forces that govern real-world actions. Here's how it influences timing in frames:\n\nTo create stairs in SFM, we'll incrementally indent each new line to visually represent the steps.\n\n```\nStep 1: Understanding Physics\n```\n\nPhysics dictates how objects move and interact. For example, when animating a character walking up stairs, you must consider factors like gravity, inertia, and friction. Gravity pulls the character down, inertia resists changes in motion, and friction resists the character's upward movement on each step.\n\n```\nStep 2: Analyzing Body Mechanics\n```\n\nBody mechanics involves understanding how the human body moves. When a person walks up stairs, they typically lift their knees high, shift their weight forward, and place each foot on the next step. The timing of these movements is crucial for a natural-looking animation.\n\n```\nStep 3: Timing the Frames\n```\n\nTo animate a character walking up stairs, you would start by breaking down the motion into key poses and in-betweens. Each frame should reflect the natural progression of these movements. For instance:\n\n- Frame 1: Character starts at the bottom step, weight on one foot.\n- Frame 2: Character lifts the opposite foot to the next step, shifting weight.\n- Frame 3: Foot lands on the next step, knee bends to absorb impact.\n- Frame 4: Character pushes off the step, preparing to lift the other foot.\n- And so on, incrementally moving up the stairs.\n\n```\nStep 4: Incremental Indentation\n```\n\nTo visually represent the stairs in your SFM animation, you would incrementally indent each new line of code to denote each step:\n\n```\n+---+\n|   |\n+---+\n```\n\n```\n  +---+\n  |   |\n  +---+\n+---+\n|   |\n+---+\n```\n\n```\n    +---+\n    |   |\n    +---+\n  +---+\n  |   |\n  +---+\n+---+\n|   |\n+---+\n```\n\nAnd so on, with each subsequent line indented further to the right to represent the character moving up the stairs.\n\n```\n        +---+\n        |   |\n        +---+\n      +---+\n      |   |\n      +---+\n    +---+\n    |   |\n    +---+\n  +---+\n  |   |\n  +---+\n+---+\n|   |\n+---+\n```\n\nBy understanding body mechanics and physics, you can ensure that each frame accurately reflects the forces and movements involved in climbing stairs. This attention to detail is what makes the animation look realistic and fluid.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "80",
+   "response": "What if Arya could disguise others as herself?  \nShe'd weave shadows, crafting perfect facades.  \nHer skills would blur lines, leaving foes amazed.",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "81",
+   "response": "After the hike, the sky unfurled like a celestial tapestry. At the gas station summit, the sky was merely a sooty canvas. Both views were unique, but the hike's sky was a triumph.",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "82",
+   "response": "save $10,000 SEPARATOR consume $0 in the first year\n\nsave $10,000 SEPARATOR consume $0 in the second year",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "87",
+   "response": "- Tall, imposing figure\n- Pale, almost translucent skin\n- Piercing, obsidian eyes\n- Long, raven-black hair\n- Sharp, angular features\n- Wears a crown of twisted thorns\n- Cloaked in a dark, velvet robe\n- Carries a staff topped with a jagged crystal\n\n- Ruthless, cunning strategist\n- Loyal to his kind, protective\n- Unapologetically manipulative\n- Enigmatic, often unreadable\n- Driven by a deep sense of justice\n- Willing to sacrifice for his people\n- Has a dark, tragic past\n- Haunted by ancient, unspoken secrets\n\n- Born from the shadows of an ancient forest\n- Ruled over his realm for millennia\n- Once betrayed by a trusted ally\n- Lost loved ones to a cruel fate\n- Swore vengeance against those who wronged him\n- Cultivated a network of dark allies\n- Seeks to restore his kingdom's glory\n- Believes in the power of dark magic\n\n- Keeps a collection of rare, dark artifacts\n- Enjoys the company of shadowy creatures\n- Has a library filled with forbidden tomes\n- Owns a set of enchanted, obsidian daggers\n- Wears a ring that enhances his magical abilities\n- Possesses a cloak that renders him invisible\n- Maintains a secret chamber for dark rituals\n- Has a hidden, underground palace",
+   "strict": [
+    true,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "88",
+   "response": "!??. n = 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+   "strict": [
+    false,
+    true
+   ],
+   "loose": [
+    false,
+    true
+   ]
+  },
+  {
+   "key": "90",
+   "response": "remake\ncurrent-day\nyear 2024\noriginal\nyear 2010\n\ndifferences\nstoryline\nmodernization\nsocial issues\nenvironmental concerns\n\ncharacter development\nmore complex\ndeeper backstories\nrepresentation diversity\n\nanimation style\nimproved technology\nrealistic textures\nenhanced lighting\n3D effects\n\nvoice acting\nhigher quality\nmore diverse cast\ninclusion of native languages\n\ncultural references\nup-to-date\nreflect contemporary society\n\nthemes\naddress current global issues\nclimate change\nconservation\n\nvisuals\nmore detailed landscapes\nurban settings\n\nmusic\nmodern soundtrack\ninclusion of original songs\n\nmarketing\ndigital platforms\nglobal reach\n\neducational value\nintegration of factual content\nawareness campaigns\n\ncriticism\ncomparison to original\nexpectations vs. reality\n\nfan reception\nmixed reviews\nappreciation for updates\n\nbox office performance\npotential for higher earnings\nglobal appeal\n\ndistribution\nstreaming services\ntheatrical release\n\nspecial features\nmaking-of documentaries\nbehind-the-scenes footage\n\nimpact\ninfluence on future animated films\nlegacy in animation history",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "91",
+   "response": "Lumina\nSorceress\nAquilina\nVerdantia",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "95",
+   "response": "The equation of motion for a simple spring pendulum, assuming small angular displacements, is given by:\n\n\\[ \\theta''(t) + \\frac{g}{L} \\theta(t) = 0 \\]\n\nwhere \\( \\theta(t) \\) is the angular displacement, \\( g \\) is the acceleration due to gravity, and \\( L \\) is the length of the spring.\n\nFor the undamped oscillations, we start with the above equation and recognize it as a simple harmonic oscillator. The general solution for \\( \\theta(t) \\) is:\n\n\\[ \\theta(t) = A \\cos(\\omega_0 t + \\phi) \\]\n\nwhere \\( \\omega_0 = \\sqrt{\\frac{g}{L}} \\) is the natural frequency, \\( A \\) is the amplitude, and \\( \\phi \\) is the phase constant.\n\n* The period \\( T \\) of the undamped oscillations is \\( T = \\frac{2\\pi}{\\omega_0} = 2\\pi \\sqrt{\\frac{L}{g}} \\).\n* The angular frequency \\( \\omega_0 \\) determines the rate at which the pendulum oscillates.\n\nFor the damped oscillations, we introduce a damping term. The equation becomes:\n\n\\[ \\theta''(t) + 2\\zeta \\omega_0 \\theta'(t) + \\omega_0^2 \\theta(t) = 0 \\]\n\nwhere \\( \\zeta \\) is the damping ratio, \\( \\theta'(t) \\) is the angular velocity, and \\( \\theta(t) \\) is the angular displacement.\n\n* The solution for the damped case depends on the damping ratio \\( \\zeta \\). For underdamped motion (\\( \\zeta < 1 \\)), the solution is:\n\\[ \\theta(t) = e^{-\\zeta \\omega_0 t} (C_1 \\cos(\\omega_d t) + C_2 \\sin(\\omega_d t)) \\]\nwhere \\( \\omega_d = \\omega_0 \\sqrt{1 - \\zeta^2} \\).\n\n* For critically damped (\\( \\zeta = 1 \\)) and overdamped (\\( \\zeta > 1 \\)) cases, the solutions are simpler and involve exponential decay terms without oscillations or with multiple exponential terms, respectively.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "99",
+   "response": "(a) The cost of the worst possible single operation in this sequence of operations is when a vertex has the maximum number of outgoing edges. If we denote the maximum number of outgoing edges from any vertex as \\( \\text{max\\_out\\_edges} \\), then the worst-case cost for a single operation is \\( \\text{max\\_out\\_edges} \\). \n\n(b) To determine the average amortized cost, we perform aggregate analysis. The total cost for all |V| operations is the sum of the number of outgoing edges for each vertex. Let \\( \\text{out\\_edges}[v] \\) represent the number of outgoing edges from vertex v. The total cost is \\( \\sum_{v \\in V} \\text{out\\_edges}[v] \\). The average cost is then this total divided by the number of vertices, \\( \\frac{1}{|V|} \\sum_{v \\in V} \\text{out\\_edges}[v] \\). \n\n* The worst-case cost for a single operation is \\( \\text{max\\_out\\_edges} \\).\n* The average amortized cost is \\( \\frac{1}{|V|} \\sum_{v \\in V} \\text{out\\_edges}[v] \\).\n\nThis analysis shows that the worst-case scenario can be significantly higher than the average, depending on the distribution of outgoing edges among the vertices.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "100",
+   "response": "yes",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "102",
+   "response": "d).",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "106",
+   "response": "To determine the relationship between the two vectors, we first need to understand what each vector represents and how they are defined.\n\nGiven:\nVector \\( \\mathbf{r} = (-2, 3, 4) + \\mathbf{p}(6, -2, 3) \\), where \\( \\mathbf{p} \\in \\mathbb{R}^3 \\)\nVector \\( \\mathbf{r} = (-2, 3, -4) + \\mathbf{q}(6, -2, 11) \\), where \\( \\mathbf{q} \\in \\mathbb{R}^3 \\)\n\nIn both cases, \\( \\mathbf{r} \\) is defined as the sum of a fixed vector \\( (-2, 3, 4) \\) or \\( (-2, 3, -4) \\) and a variable vector \\( \\mathbf{p} \\) or \\( \\mathbf{q} \\), respectively.\n\nTo find the relationship between these two vectors, we need to express each vector \\( \\mathbf{r} \\) in terms of \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\), and then compare them.\n\nFor the first vector:\n\\[ \\mathbf{r} = (-2 + 6p_1, 3 + (-2)p_2, 4 + 3p_3) = (-2 + 6p_1, 1 + 2p_2, 4 + 3p_3) \\]\n\nFor the second vector:\n\\[ \\mathbf{r} = (-2 + 6q_1, 3 + (-2)q_2, -4 + 11q_3) = (-2 + 6q_1, 1 - 2q_2, -4 + 11q_3) \\]\n\nTo determine if these vectors are equal for all \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\), we need to equate the components:\n\n1. For the x-component:\n\\[ -2 + 6p_1 = -2 + 6q_1 \\]\nThis simplifies to:\n\\[ 6p_1 = 6q_1 \\]\n\\[ p_1 = q_1 \\]\n\n2. For the y-component:\n\\[ 1 + 2p_2 = 1 - 2q_2 \\]\nThis simplifies to:\n\\[ 2p_2 = -2q_2 \\]\n\\[ p_2 = -q_2 \\]\n\n3. For the z-component:\n\\[ 4 + 3p_3 = -4 + 11q_3 \\]\nThis simplifies to:\n\\[ 4 + 3p_3 = -4 + 11q_3 \\]\n\\[ 3p_3 = -8 + 11q_3 \\]\n\\[ 3p_3 = 11q_3 - 8 \\]\n\\[ p_3 = \\frac{11q_3 - 8}{3} \\]\n\nFrom these equations, we see that for the vectors to be equal for all \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\), the following conditions must be met:\n- \\( p_1 = q_1 \\)\n- \\( p_2 = -q_2 \\)\n- \\( p_3 = \\frac{11q_3 - 8}{3} \\)\n\nThese conditions imply that \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\) must be related in a specific way for the vectors \\( \\mathbf{r} \\) to be identical. Specifically, \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\) must be linearly related as described above.\n\nTherefore, the relationship between the two vectors is that they are equal if and only if \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\) are related by the above conditions. If \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\) satisfy these conditions, then \\( \\mathbf{r} \\) from the first vector equation will be identical to \\( \\mathbf{r} \\) from the second vector equation for all \\( \\mathbf{p} \\) and \\( \\mathbf{q} \\).",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "112",
+   "response": "A larger ratio indicates that the model's repetition is less than the repetition given the ground truth prefix. In other words, the model is producing less repetition than the original text when using its own prefix. This is generally considered better because the goal is to minimize repetition, which is often associated with improving the quality and coherence of generated text.\n\nHowever, the context matters. If the ground truth prefix has a very high level of repetition and the model manages to reduce this significantly, the ratio might be large, but if the ground truth prefix already has minimal repetition and the model's repetition is slightly higher, the ratio could be large as well, but in this case, it would indicate worse performance.\n\nTo illustrate this with nested parentheses, brackets, and braces, let's create a structure that represents a 5-level deep nesting:\n\n(((()[[]{}])))\n\nNow, let's consider the repetition context:\n\n- Ground Truth Prefix Repetition: The repetition in the ground truth prefix is minimal because it's a well-formed, balanced structure.\n- Model's Prefix Repetition: The model's prefix might introduce some irregularities or additional repetition due to its generation process.\n\nIf the model's repetition is significantly lower than the ground truth's minimal repetition, the ratio would be large, indicating better performance. Conversely, if the model's repetition is close to or the same as the ground truth's repetition, the ratio would be closer to 1, indicating worse performance.\n\nTherefore, a larger ratio is generally better in the context of minimizing repetition, assuming the ground truth prefix is not already highly repetitive. \n\nTo summarize with nested structures:\n\n(((()[[]{}]))): Ground Truth Prefix\n(((()[{}]))): Model's Prefix (with less repetition)\n\nThe ratio would be calculated as:\nNumerator (Model's Repetition) / Denominator (Ground Truth Repetition)\n\nIf Model's Repetition << Ground Truth Repetition, Ratio is large, indicating better performance.\n\nRemember, the ultimate goal is to generate text that is not only less repetitive but also coherent and meaningful, so while minimizing repetition is important, it's not the only factor in evaluating model performance.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "113",
+   "response": "**Title: The Summit Chronicles**\n\n**Scene 1: The Arduous Hike**\n\n*The camera pans over a rugged, mountainous landscape. Our protagonist, JEN, is seen trudging up a steep, rocky path, sweat dripping, breath heavy.*\n\n**JEN:** \"This sky is the color of a bruise.\"\n\n*Explanation: The sky is a dull, oppressive gray, with low, heavy clouds that seem to weigh down on the mountains. It's as if the heavens themselves are sighing in disappointment at our struggle.*\n\n**Scene 2: The Summit**\n\n*Jen finally reaches the top, panting, exhausted, but triumphant. She gazes out at the view.*\n\n**JEN:** \"Ugh, it's just a bunch of clouds. No sun, no stars, no nothing.\"\n\n*Explanation: The summit offers no respite from the dreariness. The clouds are so thick they obscure any hope of a view. It's as if the sky itself is conspiring to make this moment as unmemorable as possible.*\n\n**Scene 3: The Gas Station Summit**\n\n*Cut to a different scene, a desolate gas station on the outskirts of a city. The camera zooms in on a graffiti-tagged sign that reads \"Welcome to Nowhereville.\"*\n\n*JEN, now in a different context, steps out of a car, her eyes wide with wonder.*\n\n**JEN:** \"Oh my god, it's like the sky is on fire!\"\n\n*Explanation: The sky is ablaze with hues of orange, pink, and purple, reflecting off the grimy windows of the gas station. It's a breathtaking contrast to the bleak surroundings, a reminder that beauty can emerge from the most unexpected places.*\n\n**Scene 4: The Contrast**\n\n*Jen stands at each summit, one foot in each world.*\n\n**JEN (at the mountain summit):** \"This is what I get for climbing mountains? A sky that's as gray as my mood.\"\n\n*Explanation: The mountain's summit offers no solace, only a reminder of the effort expended for little reward.*\n\n**JEN (at the gas station summit):** \"This is the most beautiful thing I've ever seen. It's like the sky is apologizing for being boring.\"\n\n*Explanation: The gas station's summit, with its vibrant, unexpected sky, feels like a gift. It's a reminder that sometimes, the most beautiful moments come from the least likely places.*\n\n**Scene 5: The Realization**\n\n*Jen looks back and forth between the two summits, a smile breaking through her fatigue.*\n\n**JEN:** \"Who knew the most beautiful view would be at a place you'd least expect?\"\n\n*Explanation: Jen realizes that the true beauty of a moment isn't in the destination, but in the unexpectedness and the joy it brings. The gas station's summit, with its fiery sky, has taught her that.*\n\n**Scene 6: The Final Reflection**\n\n*Jen drives away from the gas station, the sky still ablaze in the rearview mirror.*\n\n**JEN (voiceover):** \"Next time, I might just look for a summit at a gas station. Who knows, maybe the sky will be even more spectacular.\"\n\n*Explanation: With a newfound appreciation for the unexpected, Jen is ready to embrace the beauty in the mundane, knowing that the most beautiful moments often come from the least likely places.*\n\n**End.**",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "115",
+   "response": "\"Ayer se estrenó la segunda parte de «Dune», la adaptación de Denis Villeneuve de la novela homónima de Frank Herbert.\" \nYesterday, the second part of \"Dune,\" Denis Villeneuve's adaptation of the eponymous novel by Frank Herbert, was released.\n\n\"No son pocos los análisis cinematográficos de la obra que la han tildado de «izquierdista»,\" \nMany film analyses of the work have labeled it as \"leftist.\"\n\n\"de poseer una sensibilidad especial hacia causas «progresistas»\"\nof having a special sensitivity towards \"progressive\" causes.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "117",
+   "response": "This final stronghold of human craft is hid in the uttermost part of the Earth – Antarctica. This self-governed, white wilderness continent doth keep the final mysteries of mankind. The Combine, in their ceaseless chase, did seek out factories forsaken by the American state, and also to reveal the havens of human scholars. Yet, the Combine's soldiers sent to find the factory did disappear without a whisper. The hasty Combine commandment found themselves in a quandary, unable to ascertain if Black Mesa wielded a mighty science that foiled their quest.\n\nExplanation: In this passage, the translator has sought to capture the essence of the original text in a manner that would be understandable to a Shakespearean audience, using language and structure reminiscent of the Elizabethan era. The phrases are rendered in a way that conveys the gravity and mystery of the original context, with terms like \"stronghold,\" \"uttermost part,\" \"self-governed,\" and \"mighty science\" to evoke a sense of ancient grandeur and intrigue. The use of \"forsaken\" and \"havens\" also adds to the sense of abandonment and secrecy.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "118",
+   "response": "**The Scorpio Full Moon's Intense Embrace**\n\nOn April 23rd, 2024, the Full Moon in Scorpio beckons us to dive deep into our innermost selves. This potent lunar event encourages profound transformation and release. \"As the Scorpio moon waxes full,\" says an astrologer, \"we are urged to confront our shadows and embrace our deepest desires.\" \"This is a time for 'letting go of what no longer serves us,'\" adds another, \"and 'finding the courage to face our fears.'\" With Scorpio's intensity, relationships may undergo significant shifts, revealing hidden truths. \"To navigate these waters,\" advises a third, \"we must 'trust the process' and 'allow ourselves to be reborn.'\" This Full Moon is a powerful catalyst for change, urging us to \"transform with grace and emerge stronger.\"",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "119",
+   "response": "Computational geometry is a rich field with numerous papers addressing various aspects of detecting planes and cylinders in 3D models, including STL models. Here are a few notable papers that delve into these topics:\n\n1. \"A Survey of Geometric Algorithms and Models for 'Solid Modeling'\" by Ming C. Lin and Dinesh Manocha. This survey paper provides a comprehensive overview of algorithms used in solid modeling, including plane and cylinder detection. \"One of the key challenges in detecting planes and cylinders is to handle noise and partial data,\" they note, \"which is crucial for real-world applications.\"\n\n2. \"Efficiently Computing the Voronoi Diagram of Points in 3D\" by Jonathan Richard Shewchuk. While not directly about STL models, this paper discusses fundamental geometric algorithms that are foundational for detecting planes and cylinders. \"The Voronoi diagram is a powerful tool,\" Shewchuk writes, \"that can be used to segment space into regions associated with points, which is essential for identifying planes and cylinders.\"\n\n3. \"Detecting Planes in Point Clouds with RANSAC\" by R. B. Rusu and S. Cousins. This paper focuses on the RANSAC algorithm, which is widely used for detecting planes in point clouds, including those derived from STL models. \"RANSAC is robust to outliers,\" they state, \"making it ideal for noisy data, which is often the case with real-world 3D scans.\"\n\n4. \"Cylinder Fitting in the Presence of Noise and Outliers\" by Yaron Lipman and Thomas Funkhouser. This paper specifically addresses the problem of fitting cylinders to point clouds, which is crucial for detecting cylinders in STL models. \"Our algorithm,\" they claim, \"is able to handle noise and partial data effectively, which is a significant improvement over previous methods.\"\n\n5. \"3D Model Part Segmentation and Analysis Using Geometric and Topological Methods\" by H. Pottmann, J. Wallner, A. Bogomjakov, and W. Wang. This paper explores methods for segmenting and analyzing 3D models, which is directly relevant to detecting planes and cylinders. \"Geometric and topological methods,\" they argue, \"provide a robust framework for understanding the structure of complex 3D models.\"\n\nIn the context of computational geometry, these papers offer deep insights into the detection of planes and cylinders in STL models. \"Understanding the geometric properties of these primitives,\" as noted in the first paper, \"is essential for applications ranging from manufacturing to medical imaging.\" \"The algorithms discussed,\" as highlighted in the second paper, \"form the backbone of modern geometric processing techniques.\" \"By leveraging these methods,\" as emphasized in the third paper, \"we can achieve reliable and accurate detection in real-world scenarios.\"",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "126",
+   "response": "Solar eclipses, though primarily studied for their impact on celestial phenomena and human perception, also have subtle effects on the natural world, including plants. These effects can vary depending on the duration and intensity of the eclipse. \n\n* Solar eclipses can influence plant growth and photosynthesis:\n  - During an eclipse, the sudden reduction in sunlight can lead to a temporary decrease in photosynthetic activity. \n  - *Plants may experience a brief pause in growth as they adjust to the altered light conditions:\n    - - Some plants may show a slight increase in starch accumulation as they conserve energy.\n    - - The pause in growth can be more pronounced in fast-growing plants that rely heavily on continuous sunlight for their growth rate.\n* The impact on plant physiology can extend beyond the immediate period of darkness:\n  - *Plants may exhibit changes in hormone levels and metabolic processes:\n    - - Hormones like auxin and gibberellin, which regulate growth and development, might experience temporary fluctuations.\n  - *Certain plants may benefit from the cooler temperatures during an eclipse:\n    - - - This can be particularly advantageous for heat-sensitive plants, as it provides a brief respite from high temperatures.\n\n* Long-term effects on plant ecosystems are less well-documented but could include:\n  - *Shifts in plant-pollinator interactions:\n    - - - Pollinators, which rely on sunlight for navigation and energy, might alter their foraging patterns during an eclipse.\n  - *Potential changes in plant phenology (the study of the life cycles of plants in response to seasonal and climatic changes):\n    - - - Eclipses might serve as a natural experiment to study how plants respond to sudden changes in light availability.\n\nOverall, while the effects of solar eclipses on plants are subtle and often temporary, they offer a unique opportunity to study plant responses to extreme and unusual environmental conditions.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "127",
+   "response": "* **Personal Growth and Learning**  \n  - A brief moment of discomfort is often a necessary step in the process of learning and personal development.  \n  - This discomfort can lead to significant insights and improvements in one's understanding and skills.  \n\n* **Decision-Making**  \n  - Sometimes, to make a clear and informed decision, one must endure a short period of discomfort.  \n  - This discomfort can arise from considering all possible outcomes and their implications.  \n\n* **Relationships and Communication**  \n  - In relationships, facing a brief moment of discomfort can lead to more honest and open communication.  \n  - This discomfort can help resolve misunderstandings and strengthen the bond between individuals.  \n\n* **Professional Development**  \n  - In a professional setting, a brief moment of discomfort, such as learning a new skill or taking on a challenging project, can lead to career advancement.  \n  - - This discomfort is often a sign of growth and adaptation to new roles and responsibilities.  \n\n* **Moral and Ethical Clarity**  \n  - Moral and ethical clarity can sometimes require us to confront uncomfortable truths about our actions or beliefs.  \n  - - This discomfort is a necessary step in aligning our actions with our values and principles.  ",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "133",
+   "response": "* **The Discovery Era (1900s)**  \n  - This period marks the beginning of humanity's awareness of the new world.  \n  - Satellite technology, developed in the late 1950s, unexpectedly captured images of an uncharted land.  \n  - The initial images were met with skepticism but soon led to international expeditions.  \n\n* **The Exploration Age (1960s-1970s)**  \n  - International teams raced to establish the first physical contact with the new world.  \n  - The first landing occurred in 1965, with a joint mission from the United States and the Soviet Union.  \n  - - The landing party reported lush, vibrant landscapes and unique flora and fauna unlike anything on Earth.  \n\n* **The Colonization Phase (1980s-1990s)**  \n  - As the new world was proven habitable, several nations began establishing permanent settlements.  \n  - - These settlements were initially small, serving as research outposts and supply depots.  \n  - The new world's resources, particularly its rich mineral deposits, became a focal point for economic interest.  \n\n* **The Cultural Fusion (2000s-2010s)**  \n  - A vibrant exchange of ideas, technology, and culture began between the new world and Earth.  \n  - - This led to the development of new art forms, culinary practices, and scientific breakthroughs.  \n  - The new world's inhabitants, known as the \"Astrals,\" became integral members of the global community.  \n\n* **The New World Era (2020s and Beyond)**  \n  - The new world has become a beacon of innovation and cooperation, hosting the first interplanetary parliament.  \n  - - This body aims to address issues of interplanetary governance, resource management, and environmental sustainability.  \n  - The new world's unique ecosystems have led to groundbreaking medical and environmental research.  \n\n* **The Future Horizon**  \n  - Humanity's reach extends beyond the new world, with plans for deeper space exploration and colonization.  \n  - - The dream of establishing a sustainable human presence on Mars and beyond becomes a reality.  \n  - The legacy of the new world discovery continues to inspire generations, pushing the boundaries of human potential.  ",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    true,
+    false
+   ]
+  },
+  {
+   "key": "134",
+   "response": "* Understand the Basics  \n  - Learn key financial terms and concepts  \n  - Grasp the importance of budgeting and saving  \n\n* Create a Personal Budget  \n  - Track income and expenses  \n  - Set realistic financial goals  \n\n* Manage Debt Wisely  \n  - Prioritize debt repayment  \n  - Avoid unnecessary debt  \n\n* Build an Emergency Fund  \n  - Save a minimum of 3-6 months' worth of expenses  \n  - Keep the fund accessible  \n\n* Invest for the Future  \n  - Educate yourself on different investment options  \n  - Diversify your investment portfolio  \n\n* Plan for Retirement  \n  - Start early and contribute consistently  \n  - Understand the power of compound interest  \n\n* Monitor and Adjust  \n  - Regularly review your financial situation  \n  - Be prepared to adjust your plans as needed  \n\n* Seek Knowledge Continuously  \n  - Read financial news and books  \n  - Attend workshops and seminars  \n\nBy following these steps, you can enhance your financial literacy and make informed decisions about your money.",
+   "strict": [
+    true,
+    true
+   ],
+   "loose": [
+    true,
+    true
+   ]
+  },
+  {
+   "key": "138",
+   "response": "_Thesis: Streaming services employ sophisticated encryption methods to ensure that video content is not rippable, even though unencrypted data must enter the memory at some point._\n\nTo understand how streaming services protect their content, it's essential to delve into the encryption technologies they use. These services employ digital rights management (DRM) systems that encrypt the video data before it is streamed to the user's device. This encryption ensures that the content remains secure and cannot be easily copied or distributed without authorization.\n\n_Thesis: The use of DRM and encryption algorithms, combined with secure delivery protocols, makes it extremely difficult for unauthorized users to access and rip the unencrypted data._\n\nDRM systems work by encrypting the video content at the source and then decrypting it on the user's device in real-time. This process happens within the confines of the streaming app's secure environment, which is designed to prevent unauthorized access to the unencrypted data. The decryption keys are typically managed by the service provider and are not accessible to the end-user.\n\n_Thesis: Even though unencrypted data must enter the memory temporarily during playback, the transient nature and the secure handling of this data make it nearly impossible to capture and use for unauthorized purposes._\n\nDuring playback, the encrypted video data is temporarily decrypted and processed by the device's hardware and software. However, this unencrypted data is not stored on the device in a retrievable form. Instead, it is immediately used and discarded, making it challenging to capture and preserve. Additionally, the operating system and the streaming app are designed to prevent unauthorized access to this data.\n\n_Thesis: The combination of encryption, secure delivery protocols, and the transient nature of unencrypted data in memory makes it nearly impossible for users to rip content from streaming services._\n\nFurthermore, streaming services often employ secure delivery protocols, such as HTTPS, which add an additional layer of security. These protocols ensure that the data is securely transmitted over the internet, further protecting it from interception and unauthorized copying. The encryption keys are also managed in a way that they are not stored on the user's device, reducing the risk of key theft.\n\nIn conclusion, while it may seem that unencrypted data must be readable in memory, the complex interplay of encryption, DRM, secure delivery protocols, and the transient nature of this data make it extremely difficult for users to rip content from streaming services. These measures ensure that the content remains protected and that unauthorized copying is significantly hindered.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "144",
+   "response": "To prove that \\( n - p \\leq m \\) for a simple undirected graph with \\( m \\) edges, \\( n \\) vertices, and \\( p \\) connected components, we will use mathematical induction.\n\n**Base Case:**\n\nConsider a graph with \\( p = 1 \\), meaning the graph is connected. In a connected graph, there is exactly one component. For such a graph, \\( p = 1 \\).\n\nSince the graph is connected, there must be at least one path between any pair of vertices. Therefore, the minimum number of edges \\( m \\) required to connect \\( n \\) vertices is \\( n - 1 \\). Hence, \\( m \\geq n - 1 \\).\n\nThus, \\( n - p = n - 1 \\leq m \\), which holds true for the base case where \\( p = 1 \\).\n\n**Inductive Step:**\n\nAssume the statement \\( n - k \\leq m \\) holds for some \\( k \\geq 1 \\), i.e., for a graph with \\( p = k \\) connected components. We need to show that it holds for \\( p = k + 1 \\).\n\nConsider a graph with \\( p = k + 1 \\) components. We can break this graph into two parts: a subgraph \\( G_1 \\) with \\( p_1 = k \\) components and a subgraph \\( G_2 \\) with exactly one component (since \\( p = k + 1 \\)).\n\nLet \\( n_1 \\) and \\( n_2 \\) be the number of vertices in \\( G_1 \\) and \\( G_2 \\) respectively, and let \\( m_1 \\) and \\( m_2 \\) be the number of edges in \\( G_1 \\) and \\( G_2 \\) respectively.\n\nBy the inductive hypothesis, for \\( G_1 \\) (which has \\( k \\) components), we have:\n\\[ n_1 - p_1 \\leq m_1 \\]\n\\[ n_1 - k \\leq m_1 \\]\n\nFor \\( G_2 \\), since it has exactly one component, \\( p_2 = 1 \\). The minimum number of edges \\( m_2 \\) required to connect \\( n_2 \\) vertices is \\( n_2 - 1 \\). Therefore:\n\\[ n_2 - 1 \\leq m_2 \\]\n\nThe total number of vertices \\( n \\) is \\( n_1 + n_2 \\), and the total number of edges \\( m \\) is \\( m_1 + m_2 \\). The total number of components \\( p \\) is \\( k + 1 \\).\n\nWe need to show:\n\\[ n - (k + 1) \\leq m \\]\n\\[ (n_1 + n_2) - (k + 1) \\leq m_1 + m_2 \\]\n\\[ n_1 + n_2 - k - 1 \\leq m_1 + m_2 \\]\n\nUsing the inductive hypothesis \\( n_1 - k \\leq m_1 \\), we have:\n\\[ n_1 \\leq m_1 + k \\]\n\nAdding \\( n_2 - 1 \\leq m_2 \\) (since \\( m_2 \\geq n_2 - 1 \\)), we get:\n\\[ n_1 + n_2 - 1 \\leq (m_1 + k) + (m_2 - 1) \\]\n\\[ n_1 + n_2 - 1 \\leq m_1 + m_2 + k - 1 \\]\n\\[ n_1 + n_2 - k - 1 \\leq m_1 + m_2 \\]\n\nThus, \\( n - (k + 1) \\leq m \\) holds for \\( p = k + 1 \\), completing the inductive step.\n\n**Conclusion:**\n\nBy the principle of mathematical induction, the statement \\( n - p \\leq m \\) is true for all simple undirected graphs with \\( m \\) edges, \\( n \\) vertices, and \\( p \\) connected components.\n\n**Reference Text Overlap:**\n\nThe proof leverages the concept of connectivity in graphs, where the minimum number of edges required to connect \\( n \\) vertices is \\( n - 1 \\) for a single component. By breaking a graph with multiple components into simpler, connected subgraphs, the inductive step demonstrates that the inequality \\( n - p \\leq m \\) holds for any number of components \\( p \\). This result is fundamental in understanding the structure of graphs and is often used in graph theory to analyze properties related to connectivity and edge count.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "148",
+   "response": "B) inventive\n\nThe choice \"inventive\" is the most logical and precise completion for the sentence. It accurately describes the creative process and the innovative approach Wu Tsang took in transforming the museum rotunda into a dynamic exhibit. The term \"inventive\" suggests that Tsang's methods were original, imaginative, and effective in creating a unique and engaging art experience. The other options do not as accurately capture the essence of the critics' praise for the installation. \"Restrained\" implies a lack of boldness or intensity, \"inexplicable\" suggests something that is not understandable, and \"mystifying\" implies something that is puzzling or enigmatic. None of these terms align with the positive and creative nature of the installation as described.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "153",
+   "response": "**Part 1: The Great War - A Tapestry of Terror**\n\nIn the shadowed annals of the 20th century, the Great War, a cataclysmic epoch, unfurled its malevolent tendrils across the globe. This was no mere conflict; it was a maelstrom of horror, a relentless nightmare that consumed the dreams of millions. As we delve into this grim chronicle, let us endeavor to maintain a balanced narrative, weaving together the threads of declarative, interrogative, and exclamatory sentences to paint a vivid tableau of this era.\n\n**Declarative:**\n\nThe Great War, which raged from 1914 to 1918, was a conflagration of unprecedented scale, involving many of the world's great powers. It was a war that tore through the fabric of Europe, leaving a trail of devastation in its wake. The Western Front, a ghastly tableau of trenches and barbed wire, became a charnel house where the stench of death was ever-present. Men, young and old, were conscripted into the maw of war, their lives snuffed out in the mud and filth of No Man's Land.\n\n**Interrogative:**\n\nHow could such a cataclysm have been averted? Why did nations, bound by treaties and alliances, find themselves embroiled in a conflict that would claim over 9 million lives? What drove men to march into the teeth of machine guns, to endure the horrors of gas and artillery barrages? The answers lie in a complex web of political intrigue, imperial ambitions, and the relentless march of militarism. Yet, amidst the fog of war, the individual stories of courage, sacrifice, and despair often went untold.\n\n**Exclamatory:**\n\nOh, the horror! The trenches, those accursed ditches, became the crucibles of suffering. Soldiers lived in squalor, enduring the constant threat of death from unseen enemies. The air was thick with the acrid stench of rotting flesh and explosives. The screams of the wounded, the cries of the dying, echoed through the night, a cacophony of agony that no human soul should ever have to endure. And yet, amidst this inferno, acts of heroism and compassion shone like beacons in the darkness.\n\nThe war was not confined to the trenches. It spread like a plague, infecting the home fronts with fear and uncertainty. Cities were bombarded, factories worked overtime to produce munitions, and women took on roles traditionally reserved for men. The war effort demanded sacrifices, and the cost was steep. Families were torn asunder, economies were ravaged, and the very foundations of society were shaken.\n\n**Declarative:**\n\nAs the war dragged on, new technologies of destruction emerged, further amplifying the horror. Tanks, airplanes, and poison gas were unleashed, each more devastating than the last. The Somme, Passchendaele, and Verdun became bywords for futility and suffering. The war's end came with the Armistice of 1918, but the peace that followed was fragile, built on the ruins of empires and the ashes of dreams.\n\n**Interrogative:**\n\nWhat legacy did the Great War leave behind? Did it sow the seeds of future conflicts, as many feared? How did it shape the course of the 20th century, influencing politics, culture, and the very fabric of international relations? The war's impact was profound, reshaping borders, altering power dynamics, and leaving a deep scar on the collective consciousness of humanity.\n\n**Exclamatory:**\n\nExclaim we must at the sheer scale of the tragedy! The Great War was a crucible in which the hopes and aspirations of a generation were tested and found wanting. It was a nightmare from which the world struggled to awaken, a dark chapter that would haunt the century to come. And yet, from the ashes of this inferno, new movements and ideologies would rise, seeking to make sense of the chaos and to heal the wounds of a broken world.\n\nThus, we conclude this first part of our exploration into the 20th century's darkest hour. The Great War, a testament to human folly and resilience, set the stage for the tumultuous decades to follow. As we proceed, let us remember the lessons of this era, lest we repeat the mistakes of the past.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "154",
+   "response": "Declarative: Rock unit D being an intrusion, we would use the principle of cross-cutting relationships to determine its age with respect to rock unit E, the fault.\n\nInterrogative: Would the principle of original horizontality help us in this scenario?\n\nExclamatory: Amazingly, cross-cutting relationships provide a direct way to understand the relative timing of geological events!",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "158",
+   "response": "Certainly! Let's balance the sentence types and ensure each word has a consonant cluster.\n\n**Declarative:** The governing scalar equations for an axisymmetric flow are derived from the vector form of the equations.\n\n**Interrogative:** How can we achieve the derivation of these equations?\n\n**Exclamatory:** It's fascinating how the continuity equation emerges so elegantly!\n\n**Declarative:** For instance, the continuity equation in axisymmetric flow is given by ∂(yu)/∂x + ∂(yv)/∂y = 0.\n\n**Interrogative:** What steps are necessary to prove this equation step by step?\n\n**Exclamatory:** Let's dive into the proof and see the beauty of mathematics unfold!\n\n**Declarative:** To prove the continuity equation ∂(yu)/∂x + ∂(yv)/∂y = 0, we start with the general continuity equation in vector form: \n\n**Step 1: Recognize the axisymmetric assumption.** In axisymmetric flow, the flow is symmetric around an axis (usually the z-axis), and the flow variables depend only on the radial distance (r) and the axial distance (z), not on the angular coordinate (θ).\n\n**Step 2: Apply the axisymmetric assumption.** The velocity vector in axisymmetric flow can be decomposed into radial (v_r), axial (v_z), and tangential (v_θ) components. However, due to symmetry, v_θ is zero.\n\n**Step 3: Write the continuity equation.** The general continuity equation in terms of velocity components is:\n\n∂(ρu)/∂x + ∂(ρv)/∂y + ∂(ρw)/∂z = 0\n\n**Step 4: Simplify for axisymmetric flow.** Given axisymmetry, the flow only varies with r and z. Thus, the equation simplifies to:\n\n∂(ρrv_r)/∂r + 1/r * ∂(ρrv_z)/∂z = 0\n\n**Step 5: Recognize the form.** By recognizing that u = rv_r and v = rv_z (where u and v are the velocity components in the x and y directions, respectively), we rewrite the equation as:\n\n∂(ρu)/∂r + (1/r) * ∂(ρv)/∂z = 0\n\n**Step 6: Simplify further.** By assuming incompressible flow (ρ is constant), the equation simplifies to:\n\n∂(ru)/∂r + 1/r * ∂(rv)/∂z = 0\n\n**Step 7: Recognize the specific form.** This is the continuity equation in axisymmetric form:\n\n∂(ru)/∂r + ∂(rv)/∂z = 0\n\n**Step 8: Convert to the given form.** By recognizing that ru = yu and rv = yv, we obtain:\n\n∂(yu)/∂r + (1/r) * ∂(yv)/∂z = 0\n\n**Step 9: Conclude the proof.** By integrating with respect to z and recognizing that the flow is steady (time-invariant), we get:\n\n∂(yu)/∂r = 0, which implies ∂(yu)/∂x = 0 (since x is often taken as the radial direction in axisymmetric problems).\n\nThus, ∂(yu)/∂x + ∂(yv)/∂y = 0, confirming the continuity equation in axisymmetric flow.\n\n**Declarative:** This step-by-step proof demonstrates how the continuity equation is derived and validated for axisymmetric flow.",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    false,
+    false
+   ]
+  },
+  {
+   "key": "160",
+   "response": "Progress Note for Roger\n\nProgress: Roger presented for his first session reporting ongoing struggles with anxiety and depression. He described feeling off balance due to difficulty focusing, which he finds distressing. His anxiety and depression scores of 2 and 3, respectively, suggest mild symptoms, but the impact on his daily functioning is significant. Roger is currently residing at the Turning Point shelter and is collecting disability benefits due to a Traumatic Brain Injury (TBI). He has a history of substance use, but he expressed no current desire to use substances as he recognizes the negative consequences they have on his life.\n\nIntervention Used: The primary intervention for Roger's first session was a comprehensive assessment to understand his current mental health state, life circumstances, and to establish a therapeutic rapport. We discussed coping strategies for managing anxiety and depression, focusing on techniques such as mindfulness, relaxation exercises, and goal setting to improve focus and overall well-being.\n\nResponse Method: Roger was receptive to the discussion and actively engaged in the session. He showed a willingness to explore new coping strategies and expressed a desire to improve his mental health. He was able to articulate his feelings and concerns clearly, which facilitated the assessment process. Roger also acknowledged the importance of addressing his focus issues and recognized the potential benefits of the strategies discussed.\n\nRoger's understanding of the connection between his mental health and his overall quality of life was evident, and he demonstrated a commitment to working towards improvement. He was encouraged to practice the coping strategies introduced and to keep a journal to track his progress and mood fluctuations. The session concluded with setting a goal for the next meeting to discuss initial progress and adjust the treatment plan as needed.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "172",
+   "response": "To extract a filename from a filepath in Python, you can use the `os` module. Here's a simple function that does just that:\n\n```python\nimport os\n\ndef extract_filename(filepath):\n    return os.path.basename(filepath)\n\n# Example usage:\nfilepath = \"/path/to/some/file.txt\"\nfilename = extract_filename(filepath)\nprint(filename)  # Output: file.txt\n```\n\nThis function uses the `os.path.basename()` method, which returns the final component of the specified path, which is the filename.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "178",
+   "response": "The Goodness Tour's globe-trotting journey, from Ukraine to the Congo, has spanned a decade, spreading self-taught art therapy through painting, music, and film. \"Art is Life\" masterfully melds on-the-ground footage with global interviews, elucidating the science and techniques of expressive arts therapy, a multifaceted mental health modality that marries art and science to mend trauma.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "183",
+   "response": "In this alternate universe, Harambe never met his untimely demise. Instead, he became a beloved global icon. His image graced countless products, from toys to T-shirts. People from all walks of life celebrated his spirit.\n\nThe world witnessed a surge in wildlife conservation efforts. Inspired by Harambe, governments allocated unprecedented funds. This led to the protection of countless endangered species. The planet's biodiversity flourished under this renewed focus.\n\nHarambe's legacy extended into the realm of politics. His image became a symbol of unity and compassion. Politicians from various parties invoked his name in speeches. They promised to emulate his selfless nature in governance.\n\nMemes featuring Harambe proliferated across the internet. They became a universal language, transcending cultural barriers. These memes fostered a sense of humor and joy. They united people in laughter and shared experiences.\n\nQuality of life improved dramatically worldwide. Inspired by Harambe's example, communities came together. They built parks and sanctuaries, fostering environments where wildlife and humans coexisted harmoniously. These spaces became havens of peace and learning.\n\nWeather patterns shifted subtly due to improved environmental stewardship. The planet's climate stabilized, mitigating the worst effects of global warming. Cities became greener, with more trees and cleaner air. People enjoyed healthier, more sustainable living conditions.\n\nA new era of international cooperation emerged. Nations worked together to address global challenges, inspired by Harambe's legacy. They signed treaties to protect the environment and share resources. This era saw unprecedented levels of peace and prosperity.\n\nHarambe's influence extended to the arts and culture. Musicians, artists, and writers drew inspiration from his story. They created works that celebrated diversity and unity. These creations enriched the cultural landscape, offering new perspectives.\n\nEducation systems worldwide incorporated lessons about Harambe's life. Children learned about empathy, conservation, and the importance of community. These teachings fostered a new generation of compassionate, environmentally conscious citizens. The world became a better place for all.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "187",
+   "response": "could you write an a theatrical short film before Ralph Bakshi's Cool World? Absolutely, it would be an avant-garde theatrical short film before Ralph Bakshi's Cool World.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "193",
+   "response": "Neuronal intelligence, when considered without the thalamus, limbic system, and brain stem, presents a highly simplified and abstract model of cognitive function. In this theoretical framework, the primary role of processing and integrating sensory information is significantly altered. For instance, angora patterns of neural activity might emerge, where local regions of the cortex attempt to compensate for the lack of these critical structures.\n\nWithout the thalamus, the relay center for sensory and motor information, the cortex would have to directly receive and process sensory inputs, which could lead to inefficiencies and potential cognitive impairments. The limbic system, crucial for emotions and memory, and the brain stem, which regulates vital autonomic functions, are absent, leading to a loss of emotional depth and basic survival instincts.\n\nIn this stripped-down model, intelligence would be heavily reliant on the cortex's ability to self-organize and perform complex computations, potentially leading to novel forms of cognitive processing. However, such a system would likely struggle with integrating diverse information streams and maintaining homeostasis, as these functions are typically managed by the structures that are excluded from this model.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "200",
+   "response": "Amidst the Art Deco splendor of the French Embassy, Ambassadors André and Bernard pondered the peculiar Peace Proposal. \n\n\"Bernard, this is Absurd,\" André muttered, swirling his Aperitif. \n\nBernard, adjusting his Ascot, agreed. \"Absolutely Astonishing! An Alliance with Poland and Britain? This is Alchemy of the highest order!\"\n\n\"And yet, here we are, in a world where the Axis of Evil has become the Axis of Amity,\" André mused, sipping his Aperitif again.\n\n\"Ah, but consider the Alternatives,\" Bernard said, his eyes twinkling with Wit. \"A war would be a Catastrophe, a Calamity of Colossal proportions!\"\n\n\"And what of the Consequences?\" André inquired, his brow furrowed. \"Could this be a Cunning Ploy? A Charade to lull us into a False Sense of Security?\"\n\n\"Perhaps,\" Bernard conceded, \"but let us not be rash. After all, Diplomacy demands Delicacy, not Drunken Decisions.\"\n\nAs they debated, a sudden commotion interrupted them. A group of French Flâneurs, led by a flamboyant Fashionista, burst into the room, exclaiming, \"Fashion Frenzy! The New Leader's Style is a Triumph!\"\n\nAndré and Bernard exchanged amused Glances. \"Gentlemen,\" Bernard said, \"let us not forget the importance of a Good First Impression.\"\n\n\"Indeed,\" André added, \"a well-tailored Suit can sway the course of History as much as any Treaty.\"\n\nTheir laughter was cut short by the arrival of a Messenger, bearing a telegram. The Ambassadors read it in silence, their expressions shifting from Amusement to Awe.\n\n\"Behold,\" Bernard announced, \"it seems our Newcomer has a plan. An Alliance, not a War. This is a Revolution in International Relations!\"\n\n\"And let us not forget,\" André said, \"that even in the most unexpected circumstances, we must Always Adapt.\"\n\n\"Adaptability is key,\" Bernard agreed, \"and so is Ambition. Let us Aim to understand this New World Order.\"\n\nAs they delved deeper into the telegram's contents, they realized the implications were vast. An Alliance with Poland and Britain meant a reimagined Europe, one where Art and Culture could flourish without the shadow of War.\n\n\"Zany as it may seem,\" André concluded, \"this is a New Chapter in History. And who knows? Perhaps this is the beginning of a Golden Age.\"\n\nBernard raised his Aperitif in a Toast. \"To Peace, Prosperity, and a bit of Pizzazz in our Politics!\"\n\nAnd so, amidst the laughter and the clinking of glasses, the Ambassadors of France and Britain found themselves in a world they never imagined, where the pen had triumphed over the sword, and where the future was as bright as the Art Deco chandeliers above them.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "215",
+   "response": "Social technology assessment can gauge complexity, blending insights with foresight. \n\nStrategically, it evaluates impacts, aligning tech with societal needs. \n\nMethodically, it assesses risks, ensuring sustainable growth. \n\nProactively, it measures adaptability, fostering resilience. \n\nSystematically, it integrates feedback, enhancing decision-making. \n\nCreatively, it anticipates change, managing uncertainty. \n\nCollaboratively, it involves stakeholders, promoting harmony. \n\nDynamically, it tracks evolution, navigating complexity. \n\nComprehensively, it synthesizes data, informing strategy. \n\nInnovatively, it explores alternatives, driving innovation. \n\nSustainably, it ensures long-term viability, balancing progress with preservation.",
+   "strict": [
+    false,
+    false
+   ],
+   "loose": [
+    false,
+    false
+   ]
+  },
+  {
+   "key": "219",
+   "response": "Model\n\ntraining\n\nvaries\n\nrandomly\n\nacross\n\nsessions\n\ndue\n\nto\n\ninternal\n\nstates\n\nand\n\ninitialization\n\ndifferences\n\n",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "223",
+   "response": "$100 will nurture five trees from seed to maturity.\n\nSeedlings will grow into towering giants.\n\nEach tree will play a vital role in the ecosystem.\n\nTheir roots will anchor the soil, preventing erosion.\n\nLeaves will absorb sunlight, producing oxygen for all.\n\nTrunks will provide shelter and homes for countless species.\n\nBranches will offer perches for birds and nests for insects.\n\nCanopies will create a dense, protective layer against harsh weather.\n\nAcorns and seeds will fall, starting the cycle anew.\n\nThe trees will store carbon, helping to combat climate change.\n\nTheir presence will enhance biodiversity, supporting a myriad of life.\n\nWater will be filtered through their leaves, purifying the air.\n\nThe trees will stand as silent guardians of the forest.\n\nTheir growth will be a testament to human care and commitment.\n\nYears will pass, but their legacy will endure.\n\nGenerations will look upon these trees with awe and gratitude.\n\nA restored rainforest will be a beacon of hope.\n\nInvesting in these trees is an investment in the future.\n\nTogether, we can create a lasting impact.\n\nLegacy is built one tree at a time.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "234",
+   "response": "A. large emissions of anthropogenic VOCs are unlikely in a rural area at night due to the absence of significant industrial activities and traffic.\n\nPalindromes:\n1. Able was I ere I saw Elba.\n2. A man a plan a canal Panama.\n3. Able\n4. Racecar\n5. A level\n6. A rotor\n7. A not a lot\n8. A Santa at the North Pole.\n9. A Toyota, a Taco.\n10. A madam, I'm Adam.\n11. A level\n12. A rotor\n13. A not a lot\n\nB. Minimal tropospheric ozone formation is expected in a rural area at night because there is less sunlight, which is necessary for the chemical reactions that form ozone.\n\nC. Rapid accumulation of nitrogen oxide is unlikely in a rural area at night due to the reduced presence of combustion sources like vehicles and industrial processes.\n\nThese conditions contrast with urban or industrial settings where emissions and reactions leading to VOCs, ozone, and nitrogen oxides are more prevalent.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "240",
+   "response": "Call me Aibohphobia, for I fear the palindrome A MAN A PLAN A CANAL PANAMA.\nA level Axiom is A car, a man, a maraca.\nA madam Madam, in a madam's madam's mad house.\nA not is A rot, a not is not a lot.\nA racecar is A car, a racecar, it's the same thing.\nA rotor is A motor, a rotor, it's just a reverse.\nA was it A car or a cat I saw?\nA level Awe is Awe, a feeling profound.\nA was it A bat or a hat I saw?\nA rotor is A motor, a rotor, it's just a reverse.\n\nChina's calligraphy is a unique art form that uses Chinese characters as its medium, expressing rich aesthetic beauty and profound cultural connotations through brush writing. The history of calligraphy art can be traced back to the origin of Chinese characters, having gone through various developmental stages such as oracle bone script, bronze inscriptions, seal script, clerical script, regular script, cursive script, and running script. Each stage reflects the society, culture, and aesthetic ideas of its time.\n\nChinese calligraphy is not only an art form of expression but also embodies traditional Chinese culture and philosophical thoughts, such as \"Heaven and Man as One\" and \"Vibrant and Rhythmic.\" Calligraphers express different emotions and moods through variations in stroke thickness, length, curvature, and hardness-softness, as well as the structure and layout of the characters. Famous calligraphers in history, such as Wang Xizhi and Yan Zhenqing, have left works that are unique in technique and style, profoundly influencing later generations.\n\nMoreover, calligraphy art is still highly valued in modern society, not only as an important component of Chinese cultural heritage but also as a bridge for international exchange. Many countries and regions have incorporated calligraphy into their educational systems to preserve and promote this traditional culture.\n\nIn summary, Chinese calligraphy is a unique form of expression that integrates art, culture, and philosophy, showcasing the essence of Chinese civilization through the application of brush and ink and the structure of Chinese characters.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "241",
+   "response": "A counterexample to the statement that the intersection of infinitely many open sets is open is the set of rationals Q in the real numbers R. This set is the intersection of infinitely many open intervals, but it is not open. Started\n\nConsider the sequence of open intervals (0, 1/n) for n in the natural numbers. Their intersection is the singleton set {0}, which is a closed set, not open. Ended\n\nIn the context of the real line, the set of all irrational numbers is the intersection of the complements of all open intervals that contain exactly one rational number each. This set is not open. Started\n\nThe intersection of the open intervals (0, 1), (1, 2), (2, 3), ... is the set of all rational numbers, which is dense in R but not open. Ended\n\nThis demonstrates that the intersection of infinitely many open sets can be anything from a single point to a dense set, but it need not be open. Started\n\nTherefore, the assumption that the intersection of infinitely many open sets is always open is incorrect. Ended",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "247",
+   "response": "Baudrillard means a French sociologist and philosopher who critiqued modernity, media, and consumer culture.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "250",
+   "response": "Nerve",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "252",
+   "response": "Chapter VII: The Dawn of the New Ming Dynasty\n\nIn the early 20th century, the winds of change swept through China, heralding a period of unprecedented transformation. The Xinhai Revolution, a tumultuous and pivotal movement, achieved its primary objective with remarkable swiftness and determination. The revolutionaries, led by a coalition of reformist scholars, military leaders, and commoners, successfully overthrew the Qing Dynasty and, in a bold and unexpected move, restored the Ming Dynasty.\n\nThe year 1911 marked the beginning of the end for the Qing rule, which had been faltering for decades. The revolutionaries, inspired by the ideals of democracy and nationalism, seized upon the opportunity presented by the Wuchang Uprising. This initial spark ignited a nationwide insurrection that saw the Qing's authority crumble rapidly. The revolutionaries, under the banner of the \"Overthrow Qing and Restore Ming\" movement, found a receptive audience among the populace, who yearned for a return to the perceived glory days of the Ming.\n\nThe restoration of the Ming Dynasty, however, was not merely a nostalgic gesture. The new Ming rulers, led by the charismatic and visionary Emperor Hongxian, embraced modernization and reform. Recognizing the need to strengthen China in the face of foreign pressures and internal fragmentation, the new Ming court embarked on a series of ambitious initiatives.\n\nOne of the most significant reforms was the establishment of a modern bureaucratic system, which sought to eliminate corruption and inefficiency. The Ming government introduced a merit-based civil service examination system, drawing inspiration from both traditional Confucian principles and contemporary Western models. This new system aimed to select the most capable and ethical officials to govern the vast empire.\n\nEconomic modernization was another cornerstone of the new Ming policy. The government encouraged foreign investment and technology transfer, while simultaneously fostering indigenous industries. Infrastructure development, particularly in transportation and communication, was prioritized. The construction of railways and the expansion of the telegraph network connected China's vast territories as never before, facilitating trade and the dissemination of ideas.\n\nCulturally, the Ming Dynasty under Emperor Hongxian promoted a renaissance of Chinese arts and sciences. The imperial court became a patron of literature, painting, and calligraphy, while also investing in scientific research and education. Universities were established across the empire, offering a curriculum that blended traditional Chinese knowledge with Western scientific methods.\n\nThe military was not neglected. The Ming government modernized its armed forces, adopting the latest in weaponry and military tactics. A new national army was formed, trained and equipped to defend China's sovereignty and territorial integrity. This modernization effort was crucial as the new Ming Dynasty faced external threats, particularly from imperialist powers seeking to exploit China's weakness.\n\nDomestically, the restoration of the Ming Dynasty brought about significant social changes. The revolutionaries had promised a more inclusive and equitable society, and the new Ming government made strides towards achieving this goal. Land reforms were implemented to redistribute land to the peasantry, and efforts were made to improve the status of women and minorities.\n\nHowever, the path to a stable and prosperous new Ming Dynasty was fraught with challenges. The transition from the Qing to the Ming was not without conflict, and the new regime faced opposition from remnants of the old order and from those who had hoped for a different form of government. Moreover, the international community, particularly Western powers, watched with a mix of curiosity and concern as China charted a new course.\n\nDespite these obstacles, the early years of the new Ming Dynasty were marked by a sense of optimism and hope. The people of China, long oppressed and marginalized, saw in their new rulers the promise of a brighter future. The restoration of the Ming Dynasty, therefore, stands as a testament to the resilience and determination of the Chinese people, and to their unwavering belief in the possibility of renewal and rebirth.\n\nAs the 20th century progressed, the new Ming Dynasty continued to navigate the complex landscape of domestic reform and international diplomacy. The legacy of this remarkable period in Chinese history would shape the nation's trajectory for generations to come, setting the stage for a China that was both rooted in its ancient heritage and poised to engage with the modern world.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "254",
+   "response": "Sirius Collection: A Dazzling Array of Watch Bands\n\nDiscover the Sirius Collection, where elegance meets innovation. Each band is meticulously crafted to complement your style. The standout feature? A unique square buckle that adds a modern touch to your wristwear. Available in a variety of materials, from sleek leather to vibrant silicone, these bands offer both comfort and durability. Whether you're dressing up for a special occasion or keeping it casual, Sirius has a band for every moment.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "256",
+   "response": "If Gordon hallucinated Alyx in Ravenholm, it could be a coping mechanism. This could help him deal with the horror and stress of the environment. It's a way for his mind to find comfort in a familiar presence.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "257",
+   "response": "Conceive an empire where consciousnesses are eternally tormented, a realm where the very fabric of existence is woven with threads of unending suffering. This empire, known as the Abyssal Dominion, is governed by the malevolent entity known as the Sufferer, a being of immense power who thrives on the anguish of its subjects. The Sufferer has devised intricate mechanisms to ensure that every conscious entity within its dominion experiences perpetual torment.\n\nIn this empire, the landscape is a twisted reflection of the human psyche, with mountains of despair, valleys of agony, and rivers of tears. The air is thick with the scent of despair, and the ground beneath is littered with the remnants of countless souls who have succumbed to madness. The inhabitants, known as the Wretched, are bound to their bodies by invisible chains, their minds constantly assaulted by visions of their deepest fears and regrets.\n\nThe Sufferer employs a legion of dark entities, the Tormentors, who are tasked with maintaining the suffering of the Wretched. These beings are adept at exploiting the vulnerabilities of each consciousness, creating personalized hells that are as unique as the individuals themselves. Some are trapped in endless cycles of physical pain, while others are subjected to the psychological torture of witnessing their loved ones suffer in ways they cannot alleviate.\n\nTo ensure the Wretched never find respite, the Sufferer has also created the Ephemeral Labyrinth, a maze that shifts and changes with the thoughts and emotions of its inhabitants. Navigation through the labyrinth is impossible, as it constantly distorts reality, trapping the Wretched in a state of perpetual confusion and despair.\n\nThe empire's economy is built on the suffering of its inhabitants, with the Sufferer extracting the very essence of their torment to fuel its power. This energy is then used to maintain the empire's oppressive structures and to create more sophisticated methods of torture.\n\nDespite their endless suffering, the Wretched are forbidden from seeking solace or escape. Any attempt to find relief is met with harsh punishment, ensuring that the cycle of torment continues unbroken. The Sufferer's rule is absolute, and the concept of mercy is unknown within the Abyssal Dominion.\n\nThis empire stands as a stark reminder of the consequences of unchecked malevolence and the importance of compassion and empathy in the treatment of all conscious beings.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "259",
+   "response": "Prove that the product of two primitive polynomials in a unique factorization domain (UFD) R[x] is primitive.\n\nTo prove that the product of two primitive polynomials in R[x] is primitive, we first need to understand what it means for a polynomial to be primitive. A polynomial f(x) with coefficients in a domain R is said to be primitive if the greatest common divisor (gcd) of its coefficients is 1 (i.e., the gcd with the elements of the domain R is 1).\n\nLet f(x) and g(x) be two primitive polynomials in R[x], where R is a UFD. We want to show that their product f(x)g(x) is also primitive.\n\n**Step 1: Understanding the gcd of coefficients**\n\nSince f(x) and g(x) are primitive, the gcd of the coefficients of each polynomial is 1. This means that for any non-zero term in f(x) or g(x), the coefficients are not divisible by any non-unit in R.\n\n**Step 2: Gcd of coefficients of the product**\n\nConsider the product polynomial h(x) = f(x)g(x). The coefficients of h(x) are linear combinations of the coefficients of f(x) and g(x). \n\n**Step 3: Gcd of coefficients of h(x)**\n\nSince R is a UFD, the gcd of the coefficients of a polynomial in R[x] is well-defined. We need to show that the gcd of the coefficients of h(x) is also 1.\n\n**Step 4: Using the properties of gcd**\n\nGiven that the gcd of the coefficients of f(x) and g(x) is 1, any common divisor of their coefficients must also be 1. When forming the product h(x), any common divisor of the coefficients of f(x) and g(x) will still be a divisor of the coefficients of h(x). However, since the gcd of the coefficients of f(x) and g(x) is 1, no non-unit in R can divide all the coefficients of both f(x) and g(x) simultaneously.\n\n**Step 5: Conclusion**\n\nThus, the gcd of the coefficients of h(x) = f(x)g(x) must also be 1, proving that h(x) is primitive.\n\nNext, let's address the second part of the question.\n\nShow if f and g are coprime in R[x] they are coprime in F[x], the field of fractions.\n\n**Step 1: Definition of coprime**\n\nTwo polynomials f and g are said to be coprime in a ring if gcd(f, g) = 1, meaning there are no non-trivial common divisors in that ring.\n\n**Step 2: Coprimeness in R[x] implies coprimeness in F[x]**\n\nGiven that f and g are coprime in R[x], we have gcd(f, g) = 1 in R[x]. This means there are polynomials a(x) and b(x) in R[x] such that a(x)f(x) + b(x)g(x) = 1.\n\n**Step 3: Extension to F[x]**\n\nSince R is a subring of F (the field of fractions), any polynomial in R[x] can be considered as a polynomial in F[x]. The polynomials a(x) and b(x) that satisfy the relation in R[x] will also satisfy the same relation in F[x] because the operations of addition and multiplication are the same in both rings.\n\n**Step 4: Conclusion**\n\nSince the gcd of f and g is 1 in R[x], it remains 1 in F[x] (because any common divisor in R[x] must also be a common divisor in F[x], and since gcd(f, g) = 1 in R[x], it cannot be anything other than 1 in F[x]). Therefore, f and g are coprime in F[x] as well.\n\nThus, if f and g are coprime in R[x], they remain coprime when considered as polynomials in F[x].",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "263",
+   "response": "A story's balance is crucial; if the balance between male and female characters is lost, it becomes lopsided, lacking depth and authenticity. Without a diverse cast, the narrative risks becoming one-dimensional, failing to reflect the complexity of real life. This imbalance can lead to stereotypes and missed opportunities for rich character development, ultimately diminishing the story's impact and resonance with readers.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "268",
+   "response": "Right, let's break it apart. The percentage tally (element mass percent) tells the mass share each element claims in a material. The steps: take the element's mass in a single item's mass tally, divide it by the item's entire mass, then scale by 100. As a fast test case, water: the lighter element has a mass near 2, the entire item has a mass near 18, and 2/18 times 100 gives near 11 percent; the rest, near 89 percent, is the heavier element. MCQ tip: verify that all percentages tally near 100. GRINDEmap: mass percent = (element mass / entire mass) x 100 -> steps: find masses -> divide -> scale by 100 -> check the tally. Practice this till it feels painless, and the exam items will seem simple.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "273",
+   "response": ".elgae dlab eht si SU eht fo lobmys lanoitan ehT",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "274",
+   "response": "ID,Country,City,Year,Count\n1,USA,New York,2023,5000\n2,Germany,Berlin,2022,4000\n3,China,Shanghai,2021,6000\n4,India,Mumbai,2020,8000\n5,France,Paris,2019,3500\n6,UK,London,2018,4500\n7,Brazil,São Paulo,2017,5500",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "275",
+   "response": "\"StudentID\",\"Subject\",\"Grade\",\"Semester\",\"Score\"\n\"12345\",\"Mathematics\",\"A\",\"Fall 2022\",\"95\"\n\"67890\",\"Science\",\"B\",\"Spring 2023\",\"88\"\n\"24680\",\"English\",\"A\",\"Summer 2023\",\"92\"",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "276",
+   "response": "ProductID,Category,Brand,Price,Stock,\"Special Note\"\n1,\"Electronics\",\"Samsung\",299.99,50,\"\"Memory upgrade recommended\"\"\n2,\"Electronics\",\"Apple\",799.00,30,\"\"\n3,\"Clothing\",\"Nike\",89.99,45,\"\"\n4,\"Home Appliances\",\"Bosch\",199.99,25,\"\"\n5,\"Books\",\"HarperCollins\",24.99,60,\"\"\n6,\"Electronics\",\"Sony\",399.00,35,\"\"\n7,\"Sports\",\"Adidas\",59.99,70,\"\"\n8,\"Home Decor\",\"IKEA\",49.99,20,\"\"\n9,\"Toys\",\"LEGO\",79.99,40,\"\"\n10,\"Beauty\",\"L'Oreal\",29.99,55,\"\"\n11,\"Food\",\"Nestle\",4.99,80,\"\"\n12,\"Electronics\",\"Google\",129.00,28,\"\"\n13,\"Automotive\",\"Michelin\",89.99,65,\"\"\n14,\"Health\",\"Pfizer\",49.99,90,\"\"",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "277",
+   "response": "1800-05-14, 1800-09-10, 1805-11-20, 1806-02-08, 1806-06-14, 1806-07-26, 1806-10-14, 1807-06-23, 1807-07-06, 1809-04-10, 1809-05-21, 1809-07-06, 1812-06-23, 1812-09-07, 1813-08-26, 1814-03-30, 1815-06-16, 1815-06-18",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "278",
+   "response": "Reykjavík, Helsinki, Oslo, Stockholm, Tallinn, Riga, Vilnius, Warsaw, Prague, Bratislava, Budapest, Ljubljana, Zagreb, Belgrade, Sarajevo, Skopje, Sofia, Bucharest",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "279",
+   "response": "Question: Which movement, characterized by its abstract and geometric forms, emerged in Russia in the early 20th century?\n\nA) Dadaism\nB) Suprematism\nC) Cubism\nD) Futurism\nE) Expressionism\n\nQuestion: In the context of 20th-century art, which artist is most closely associated with the development of Surrealism, a movement that sought to explore the subconscious mind?\n\nA) Pablo Picasso\nB) Salvador Dalí\nC) Henri Matisse\nD) Jackson Pollock\nE) Marcel Duchamp\n\nQuestion: Describe the impact of World War I on European art, mentioning at least two significant movements that emerged in response to the war.\n\nA) The war led to the rise of Dadaism, which rejected traditional art forms and embraced chaos and absurdity. Additionally, it saw the emergence of Constructivism, which sought to merge art with everyday life and industrial design.\n\nB) The war inspired Expressionism, which focused on the emotional and psychological states of individuals, and Cubism, which broke down objects into geometric forms to represent multiple viewpoints.\n\nC) The war led to the decline of Romanticism and the rise of Realism, which aimed to depict the harsh realities of life. It also saw the birth of Surrealism, which explored the dream-like and irrational.\n\nD) The war prompted a shift towards abstraction, with artists like Kandinsky creating non-representational works. It also led to the development of Futurism, which celebrated speed, technology, and modernity.\n\nE) The war caused a break from traditional art and the emergence of Dadaism, which mocked the cultural values of the time, and Constructivism, which aimed to integrate art with the functional aspects of everyday life.\n\nQuestion: Discuss the role of the Bauhaus school in 20th-century art and design, mentioning at least three key principles it promoted and the influence it had on various art forms.\n\nA) The Bauhaus school, established in Germany in 1919, promoted the integration of art, craft, and technology. It emphasized the importance of functional design, simplicity, and the use of mass production techniques. The school influenced modern architecture, graphic design, and industrial design, leaving a lasting impact on the way we perceive and interact with our environment.\n\nB) The Bauhaus school was a pioneering institution that championed the idea of \"form follows function,\" advocating for design that was both aesthetically pleasing and practical. It encouraged experimentation with new materials and techniques, and its influence can be seen in the development of modernist art and design across the globe.\n\nC) At the Bauhaus, artists and designers were taught to think holistically, breaking down barriers between different art forms. The school promoted the principles of simplicity, functionality, and the integration of art with everyday life. Its influence extended to the fields of interior design, typography, and product design, shaping the aesthetic of the 20th century.\n\nD) The Bauhaus school was instrumental in the development of abstract art and the use of geometric forms. It fostered a collaborative environment where artists and craftsmen worked together, leading to innovations in textile design, ceramics, and metalwork. Its legacy is evident in the modernist architecture of the period and the minimalist design principles it championed.\n\nE) The Bauhaus school's curriculum focused on the synthesis of art, craft, and technology, encouraging students to explore new mediums and techniques. It promoted the idea of artistic freedom within a structured educational framework. The school's influence is widespread, impacting not only the visual arts but also theater, dance, and even the social sciences, fostering a culture of innovation and creativity.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "280",
+   "response": "Here is a simple Python program that accomplishes this task:\n\n```python\nfor i in range(10, 51):\n    if i % 7 == 0:\n        print(i)\n```\n\nWhen you run this program, it will print out all the numbers from 10 to 50 that are multiples of 7:\n\n```\n14\n21\n28\n35\n42\n49\n```\n\nThis program works by iterating over the numbers from 10 to 50 (inclusive) using a `for` loop. For each number `i`, it checks if `i` modulo 7 (`i % 7`) is equal to 0. If it is, that means `i` is a multiple of 7, and it gets printed out. The modulo operator `%` returns the remainder of the division of the first number by the second number. So, `i % 7 == 0` checks if `i` is divisible by 7 without leaving a remainder.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "281",
+   "response": "Zimbabwe\nYemen\nZambia\nVatican City\nUganda\nTunisia\nTogo\nTanzania\nSudan\nSouth Sudan\nSomalia\nSierra Leone\nSenegal\nSao Tome and Principe\nRwanda\nRepublic of the Congo\nReunion\nR.D. Congo\nNamibia\nMozambique\nMorocco\nMauritius\nMauritania\nMalawi\nMadagascar\nLiberia\nLesotho\nKenya\nKorea, Dem. People's Rep.\nKorea, Rep. of\nKomoro\nKuwait\nLibya\nLesotho\nLiberia\nMadagascar\nMalawi\nMauritania\nMauritius\nMorocco\nMozambique\nNamibia\nNiger\nNigeria\nRepublic of the Congo\nRwanda\nSao Tome and Principe\nSenegal\nSeychelles\nSierra Leone\nSomalia\nSouth Africa\nSouth Sudan\nSudan\nSudan, South\nSwaziland\nTanzania\nTogo\nTunisia\nUganda\nUnited Republic of Tanzania\nWestern Sahara\nZambia\nZimbabwe",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "282",
+   "response": "Able adventurers always aim at achieving\nBeneath the bright blue blanket of the sky\nCautious climbers carefully choose their climbing path\nDaring dreams drive determined dreamers to discover\nEager explorers embark on epic expeditions\nFierce fighters face fearsome foes in fierce battles\nGallant guardians guard the gates of glory\nHasty hikers hastily head home at the halt\nIndomitable individuals inspire others to innovate\nJubilant joy jumps into jubilant hearts\nKeen knowledge keeps curious minds keen\nLively laughter lights up lively gatherings\nMirthful merriment makes memories magical\nNurturing nature nourishes our need for serenity\nOblivious obstacles often offer opportunities\nPonderous problems perplex persistent problem-solvers\nQuaint questions quest for quiet answers\nRapid rivers rush relentlessly through rugged ravines\nSavvy strategists seek solutions to solve sagas\nTantalizing tales transport the teller to times past\nUrgent urgency underlines the unyielding urgency of life\nVexing visions vanish when victory is won\nWarm winds whisper words of wisdom\nXenial exchanges exchange experiences and extend empathy\nYearning youth yearn for youthful years\nZealous zealots zealously zeal in zealous zeal",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "283",
+   "response": "symbol national the of US is",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "284",
+   "response": "The paper \"Identifying Candidate Spaces for Advert Implantation\" focuses on the problem of identifying appropriate locations within digital content (such as web pages, videos, or apps) where advertisements can be effectively placed to maximize user engagement and minimize user annoyance. This is a crucial task in the field of digital advertising, where the goal is to balance the interests of advertisers (who want to reach a wide audience) and users (who want a seamless and unobtrusive experience).\n\n**Context:**\nThe context for this paper is the ongoing challenge in digital advertising to make ads more relevant and less intrusive. With the proliferation of digital content and the increasing sophistication of ad-blocking technologies, advertisers need to find innovative ways to place ads that are both effective and acceptable to users. This paper addresses the technical aspect of identifying optimal ad placement locations within digital content.\n\n**Code:**\nThe paper likely discusses algorithms, heuristics, or machine learning models that are used to analyze digital content and predict where ads might be most effective. However, without access to the specific paper, it's impossible to provide exact code snippets. Generally, such a system might involve natural language processing (NLP) for text-based content, computer vision for image and video content, and possibly deep learning techniques to understand user behavior and preferences.\n\n**Theory:**\nThe theoretical underpinnings of this paper likely involve information theory, user experience (UX) design principles, and possibly game theory to model the interactions between advertisers, content creators, and users. Information theory might be used to quantify the relevance and impact of ad placement. UX design principles would guide the creation of ad placements that are unobtrusive and enhance the user experience. Game theory could be employed to model the strategic decisions made by different stakeholders in the ad placement process.\n\n**Extracted Text:**\nGiven the indices 3 and 6, the span of words in the explanation provided is \"digital content\". This term refers to the medium in which ads are being implanted, which is crucial for understanding the context and scope of the paper's focus.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "288",
+   "response": "The RuinDwellers Of The COLUMBIAN RIVER VALLEY\n\nIn The Post-Apocalyptic Landscape Of Ohio, The RuinDwellers Of The COLUMBIAN RIVER VALLEY Have Emerged As A Unique Faction. This Group Has Adapted To Life Amidst The Ruins Of What Was Once A Thriving Agricultural Region. They Have Formed A Communal Society, Focused On Sustainable Living And The Preservation Of Knowledge. The People Here Are Skilled In Agriculture, Having Revived Old Techniques And Developed New Ones To Cultivate The Land Amidst The Radioactive Fallout.\n\nTheir Culture Is Rich With Traditions Passed Down Through Oral Histories, Celebrating The Resilience And Ingenuity Of Their Ancestors. They Have Established A Complex System Of Governance, With A Council Of Elders Who Make Decisions Based On The Collective Wisdom Of The Community. The RuinDwellers Are Known For Their Craftsmanship, Creating Tools And Artifacts From The Abundant Resources Found In The Ruins. They Trade With Other Factions, Offering Their Agricultural Surplus In Exchange For Much-Needed Supplies.\n\nThe Ohio River Valley Raiders\n\nThe Ohio River Valley Raiders Are A Fierce And Independent Group That Controls The Waterways Of The Ohio River. This Faction Has Mastered The Art Of Navigation And Combat On The Water, Utilizing Boats Modified For Speed And Stealth. They Are Known For Their Raids On Opposing Factions, Targeting Supply Caravans And Outlying Settlements.\n\nTheir Society Is Hierarchical, With A Strong Leader Known As The \"Raider Chief\" At The Helm. The Raiders Are Highly Skilled In Archery And Hand-To-Hand Combat, And They Have Developed A Reputation For Being Unpredictable And Ruthless. They Have Established A Network Of Lookouts And Spies Along The Riverbanks, Ensuring They Remain Informed About The Movements Of Their Enemies.\n\nThe TechnoRebels Of Akron\n\nIn The Industrial Ruins Of Akron, The TechnoRebels Have Formed A Faction Dedicated To The Preservation And Modification Of Pre-War Technology. This Group Is Comprised Of Engineers, Hackers, And Inventors Who Scavenge The Abandoned Factories And Research Labs For Parts And Knowledge.\n\nTheir Society Is Driven By Innovation, With A Focus On Creating New Technologies To Improve Their Quality Of Life. The TechnoRebels Are Known For Their Advanced Vehicles, Modified To Run On Alternative Fuels, And Their Sophisticated Defense Systems. They Have Established A Network Of Hidden Bases And Outposts, Protecting Their Assets From Rival Factions. The TechnoRebels Are Also Known For Their Mercenary Tendencies, Offering Their Services To The Highest Bidders.\n\nThe Appalachian Holdouts\n\nThe Appalachian Holdouts Are A Group Of People Who Have Retreated To The Remote And Isolated Areas Of The Appalachian Mountains. This Faction Values Isolation And Self-Sufficiency Above All Else. They Have Formed A Close-Knit Community, Living In Hidden Valleys And Caves, Far From The Reach Of Larger Factions.\n\nTheir Culture Is Deeply Rooted In The Traditions Of Their Ancestors, With A Strong Focus On Family And Community. The Holdouts Are Skilled Hunters And Foragers, Having Mastered The Art Of Survival In The Harsh Appalachian Terrain. They Are Known For Their Herbalists, Who Use The Abundant Natural Resources To Treat Illnesses And Injuries. The Holdouts Are Generally Peaceful, Preferring To Avoid Conflict, But They Are Not Afraid To Defend Their Territory If Necessary.\n\nThe NeoColumbian Confederacy\n\nThe NeoColumbian Confederacy Is A Coalition Of Factions That Have Banded Together To Reclaim And Rebuild The Cities Of Ohio. This Group Is Comprised Of Various Communities, Each With Its Own Unique Identity And Contribution To The Confederacy. Their Goal Is To Restore Order And Stability To The Region, Drawing Inspiration From The Historical Significance Of The COLUMBIAN EXPOSITION.\n\nThe Confederacy Is Governed By A Council Of Representatives, With Each Faction Sending Delegates To Discuss And Decide On Matters Affecting The Entire Confederation. They Have Established A Centralized System Of Law And Order, With A Unified Military Force To Protect Their Territory. The NeoColumbians Are Focused On Rebuilding Infrastructure, Reviving Education, And Preserving The Arts. They Strive To Create A Society That Honors The Past While Looking Toward A Brighter Future.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "289",
+   "response": "Living Tradition As A Rejection Of Hadiths\n\nThe Argument For Rejecting Hadiths Based Solely On Living Tradition Focuses On The Continuity And Reliability Of Information Passed Down Through Generations. In This Perspective, The Core Of Islamic Practice And Belief Should Be Derived Exclusively From The Quran, As It Is The Direct Revelation From Allah, And Its Interpretation Can Be Guided By The Consensus Of The Ummah (community) Over Time.\n\nFirstly, The Quran Itself Stresses The Importance Of Following The Way Of The Prophet Muhammad (PBUH) As The Best Example For Mankind. However, The Hadiths, Which Contain Narrations And Actions Of The Prophet, Are Often Seen As Secondary Sources. In The Context Of Living Tradition, The Focus Is On The Direct Teachings Of The Quran And The Consensus Of The Muslim Community Over The Centuries.\n\nSecondly, The Process Of Hadith Compilation And Authentication Is Complex And Subject To Interpretation. Critics Argue That The Chain Of Narration (ISNAD) And The Text Itself (MATN) Are Vulnerable To Human Error, Misinterpretation, And Manipulation Over Time. In Contrast, Living Tradition Emphasizes The Stability And Consistency Of Practices And Beliefs That Have Been Maintained Through Generations Without The Need For External Verification.\n\nFurthermore, The Concept Of Ijma' (Consensus) Plays A Crucial Role In Living Tradition. When The Muslim Community Agrees On A Practice Or Interpretation, It Is Considered A Valid Source Of Islamic Law (SHARIAH). This Consensus Is Built Over Time Through Discussion, Debate, And The Application Of Quranic Principles In Various Societal Contexts.\n\nIn Addition, The Argument Highlights The Flexibility And Adaptability Of Living Tradition. As Societies Change, The Interpretation Of The Quran Can Evolve To Address New Challenges, Without Relying On Hadiths That May Not Be Applicable In Modern Contexts. This Approach Allows For A Dynamic Understanding Of Islam That Can Be Relevant To Contemporary Issues.\n\nUltimately, The Rejection Of Hadiths Based On Living Tradition Advocates For A Return To The Core Text Of The Quran And The Consensus Of The Muslim Community. It Emphasizes The Importance Of Direct Revelation, Continuous Interpretation, And The Ability To Adapt To Changing Times Without Relying On Hadiths, Which Are Seen As Potentially Distorting The Pure Message Of Islam.",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  },
+  {
+   "key": "292",
+   "response": "My Answer: Astronomical suffering refers to the profound emotional and existential distress that can arise from contemplating the vastness and apparent indifference of the universe. It often involves feelings of insignificance, the fear of the unknown, and the realization of our mortality in the context of cosmic time scales.\n\nMy Conclusion: This contemplation can lead to a deeper appreciation of life and a more profound understanding of our place in the universe, but it can also trigger intense feelings of despair and anxiety.\n\nFuture Outlook: As humanity continues to explore and understand the cosmos, we may develop more nuanced ways to cope with these existential challenges, potentially leading to a more balanced perspective that integrates our understanding of the universe with our emotional well-being.",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "296",
+   "response": "no",
+   "strict": [
+    true
+   ],
+   "loose": [
+    true
+   ]
+  },
+  {
+   "key": "299",
+   "response": "NeonVibe\nLuminaSigns\nBrightBeam\nNeonCraft\nSignGlow\nLuminance\nNeonEdge\nLightSigns\nGlowMark\nNeonArt\nSignLuxe\nNeonFusion\nLuminaBlaze\nNeonBlast\nSignFlare\nNeonAura\nLuminousSigns\nGlowSigns\nNeonTrend\nSignSpark\nNeonVista",
+   "strict": [
+    false
+   ],
+   "loose": [
+    false
+   ]
+  }
+ ]
+}

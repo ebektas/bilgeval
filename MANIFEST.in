@@ -1,0 +1,3 @@
+include bilgeval/builtin_registry.json
+recursive-include bilgeval/catalog *.yaml
+recursive-include bilgeval/instruction_following *

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "datasets": {
+    "smoke_tr_movies": {
+      "path": "bilgeval/datasets/tr_movies/tr_movies.jsonl",
+      "source": "jsonl",
+      "question_key": "question",
+      "choices_key": "choices",
+      "answer_key": "answer",
+      "task_type": "mc",
+      "question_only_before_newline": false
+    },
+    "smoke_aime25_tr": {
+      "path": "bilgeval/datasets/ytu-ce-cosmos/aime25-tr/aime25_tr.jsonl",
+      "source": "jsonl",
+      "question_key": "question",
+      "choices_key": "choices",
+      "answer_key": "answer",
+      "task_type": "free_response",
+      "question_only_before_newline": false
+    }
+  },
+  "benchmark_sets": {
+    "smoke_mc": {
+      "benchmarks": [
+        {
+          "dataset_name": "smoke_tr_movies",
+          "max_examples": 1,
+          "eval_mode": "logprob",
+          "score_target": "label",
+          "generation_prompt": "turkish_mc_v1",
+          "append": true,
+          "normalization": "none",
+          "length_normalization": false
+        }
+      ]
+    },
+    "smoke_regex": {
+      "benchmarks": [
+        {
+          "dataset_name": "smoke_aime25_tr",
+          "max_examples": 1,
+          "eval_mode": "regex_match",
+          "score_target": "text",
+          "generation_prompt": "turkish_integer_answer_v1",
+          "generation_max_tokens": 512,
+          "append": false,
+          "normalization": "none",
+          "length_normalization": false
+        }
+      ]
+    }
+  },
+  "generation_prompts": {
+    "turkish_mc_v1": "Asagidaki soruyu dogru secenekle cevapla.\n\nSoru: {question}\n{choices_block}\nCevap:",
+    "turkish_integer_answer_v1": "Asagidaki matematik problemini coz. Yalnizca nihai tam sayi cevabi yaz.\n\nProblem: {question}\nCevap:",
+    "none": "{question}{choices_block}"
+  },
+  "judge_prompts": {}
+}
